@@ -4,8 +4,8 @@ Matrix factorization for hotel recommendations, with the SVD **written by hand**
 (power iteration + deflation) instead of called from a library — then measured
 honestly against FunkSVD and item-based collaborative filtering.
 
-<!-- Live demo badge is filled in once the Streamlit Cloud app is connected. -->
-**▶ Live demo:** _deploying to Streamlit Cloud — link coming._
+**▶ [Live demo](https://johnkang0720.github.io/Hotel-Recommendation/)** — interactive, runs entirely in your browser (no backend).
+The full Streamlit app also ships in the repo (`streamlit run app.py`).
 
 ---
 
