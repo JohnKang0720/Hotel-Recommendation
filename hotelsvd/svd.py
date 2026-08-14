@@ -72,9 +72,9 @@ class FunkSVD:
                 pu = self.P[u].copy()
                 self.P[u] += self.lr * (err * self.Q[i] - self.reg * pu)
                 self.Q[i] += self.lr * (err * pu - self.reg * self.Q[i])
-            entry = {"epoch": len(self.history) + 1, "train_rmse": self._rmse(R, train)}
+            entry = {"epoch": len(self.history) + 1, "trainrmse": self.rmse(R, train)}
             if val is not None:
-                entry["val_rmse"] = self._rmse(R, val)
+                entry["valrmse"] = self.rmse(R, val)
             self.history.append(entry)
         return self
 
@@ -84,5 +84,5 @@ class FunkSVD:
     def predict_matrix(self):
         return self.mu + self.bu[:, None] + self.bi[None, :] + self.P @ self.Q.T
 
-    def _rmse(self, R, mask):
+    def rmse(self, R, mask):
         return np.sqrt(((R - self.predict_matrix())[mask] ** 2).mean())
