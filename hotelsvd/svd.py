@@ -1,100 +1,88 @@
-"""SVD from scratch via power iteration + deflation.
-
-This is my original notebook idea, cleaned up. The method:
-
-1. Find the top right-singular vector of ``A`` by running power iteration on the
-   Gram matrix ``AᵀA`` (its leading eigenvector).
-2. Recover the matching singular value and left vector: ``σ = ‖Av‖``, ``u = Av/σ``.
-3. **Deflate** — subtract that rank-1 piece (``A ← A − σ u vᵀ``) and repeat for
-   the next component.
-
-Running it on the small ``AᵀA`` (hotels × hotels) keeps each iteration cheap.
-``power_svd`` is validated against ``numpy.linalg.svd`` in the tests.
-"""
-from __future__ import annotations
-
+"""Two ways to factorize the ratings matrix: SVD from scratch, and FunkSVD."""
 import numpy as np
 
 
-def initialize_vector(n: int, rng: np.random.Generator) -> np.ndarray:
-    """A random unit vector of length ``n`` (the power-iteration seed)."""
-    v = rng.random(n)
-    return v / np.linalg.norm(v)
-
-
-def power_iteration(gram: np.ndarray, tol: float = 1e-10, max_iter: int = 10_000,
-                    rng: np.random.Generator | None = None) -> np.ndarray:
-    """Leading eigenvector of a symmetric PSD matrix via power iteration."""
+def power_iteration(gram, tol=1e-10, max_iter=10_000, rng=None):
     rng = rng or np.random.default_rng(0)
-    v = initialize_vector(gram.shape[0], rng)
+    v = rng.random(gram.shape[0])
+    v /= np.linalg.norm(v)
     for _ in range(max_iter):
         w = gram @ v
-        w_norm = np.linalg.norm(w)
-        if w_norm == 0:
-            break
-        w = w / w_norm
+        w /= np.linalg.norm(w)
         if np.linalg.norm(v - w) < tol:
-            v = w
-            break
+            return w
         v = w
     return v
 
 
-def power_svd(A: np.ndarray, k: int, tol: float = 1e-10, seed: int = 0
-             ) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
-    """Truncated SVD ``A ≈ U diag(S) Vᵀ`` from scratch.
-
-    Returns ``U`` (m×k), ``S`` (k,), ``Vt`` (k×n), largest singular value first.
-    """
+def power_svd(A, k, seed=0):
     rng = np.random.default_rng(seed)
     residual = A.astype(float).copy()
-    k = min(k, min(A.shape))
-
-    us, ss, vts = [], [], []
-    for _ in range(k):
-        gram = residual.T @ residual            # (n_hotels, n_hotels) — small
-        v = power_iteration(gram, tol=tol, rng=rng)   # right singular vector
-        Av = residual @ v
-        sigma = np.linalg.norm(Av)
+    U, S, Vt = [], [], []
+    for _ in range(min(k, min(A.shape))):
+        v = power_iteration(residual.T @ residual, rng=rng)
+        sigma = np.linalg.norm(residual @ v)
         if sigma < 1e-12:
-            break                                # residual is (numerically) rank-exhausted
-        u = Av / sigma
-        residual = residual - sigma * np.outer(u, v)   # deflate
-
-        us.append(u)
-        ss.append(sigma)
-        vts.append(v)
-
-    U = np.array(us).T if us else np.zeros((A.shape[0], 0))
-    S = np.array(ss)
-    Vt = np.array(vts) if vts else np.zeros((0, A.shape[1]))
-    return U, S, Vt
+            break
+        u = residual @ v / sigma
+        residual -= sigma * np.outer(u, v)
+        U.append(u), S.append(sigma), Vt.append(v)
+    return np.array(U).T, np.array(S), np.array(Vt)
 
 
-def reconstruct(U: np.ndarray, S: np.ndarray, Vt: np.ndarray, k: int | None = None) -> np.ndarray:
-    """Rank-``k`` reconstruction ``U diag(S) Vᵀ`` (all components if ``k`` is None)."""
-    if k is None:
-        k = len(S)
+def reconstruct(U, S, Vt, k=None):
+    k = k or len(S)
     return (U[:, :k] * S[:k]) @ Vt[:k]
 
 
-def svd_predict(R: np.ndarray, mask: np.ndarray, k: int, use_numpy: bool = False
-               ) -> np.ndarray:
-    """Rating predictions from a truncated SVD of the mean-imputed matrix.
-
-    Missing entries are filled with the hotel (column) mean before factorizing —
-    the standard way to make plain SVD usable on sparse ratings. This is the
-    baseline that FunkSVD (observed-only) is meant to beat on held-out ranking.
-    """
-    col_mean = np.where(mask.any(axis=0), (R * mask).sum(0) / np.maximum(mask.sum(0), 1), R[mask].mean())
-    filled = np.where(mask, R, col_mean)
-    centered = filled - col_mean
-
+def svd_predict(R, mask, k, use_numpy=False):
+    """Truncated-SVD ratings, missing entries filled with the hotel mean."""
+    col_mean = (R * mask).sum(0) / np.maximum(mask.sum(0), 1)
+    centered = np.where(mask, R, col_mean) - col_mean
     if use_numpy:
         U, S, Vt = np.linalg.svd(centered, full_matrices=False)
         approx = reconstruct(U, S, Vt, k)
     else:
-        U, S, Vt = power_svd(centered, k)
-        approx = reconstruct(U, S, Vt)
-
+        approx = reconstruct(*power_svd(centered, k))
     return approx + col_mean
+
+
+class FunkSVD:
+    """Latent factors learned by SGD over the observed ratings only."""
+
+    def __init__(self, n_factors=8, lr=0.01, reg=0.05, epochs=120, seed=0):
+        self.n_factors, self.lr, self.reg, self.epochs, self.seed = n_factors, lr, reg, epochs, seed
+        self.history = []
+
+    def fit(self, R, train, val=None):
+        rng = np.random.default_rng(self.seed)
+        n_users, n_items = R.shape
+        self.P = rng.normal(0, 0.1, (n_users, self.n_factors))
+        self.Q = rng.normal(0, 0.1, (n_items, self.n_factors))
+        self.bu, self.bi = np.zeros(n_users), np.zeros(n_items)
+        self.mu = R[train].mean()
+        rows, cols = np.nonzero(train)
+
+        for _ in range(self.epochs):
+            for n in rng.permutation(len(rows)):
+                u, i = rows[n], cols[n]
+                err = R[u, i] - self.predict(u, i)
+                self.bu[u] += self.lr * (err - self.reg * self.bu[u])
+                self.bi[i] += self.lr * (err - self.reg * self.bi[i])
+                pu = self.P[u].copy()
+                self.P[u] += self.lr * (err * self.Q[i] - self.reg * pu)
+                self.Q[i] += self.lr * (err * pu - self.reg * self.Q[i])
+            entry = {"epoch": len(self.history) + 1, "train_rmse": self._rmse(R, train)}
+            if val is not None:
+                entry["val_rmse"] = self._rmse(R, val)
+            self.history.append(entry)
+        return self
+
+    def predict(self, u, i):
+        return self.mu + self.bu[u] + self.bi[i] + self.P[u] @ self.Q[i]
+
+    def predict_matrix(self):
+        return self.mu + self.bu[:, None] + self.bi[None, :] + self.P @ self.Q.T
+
+    def _rmse(self, R, mask):
+        return np.sqrt(((R - self.predict_matrix())[mask] ** 2).mean())

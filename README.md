@@ -57,10 +57,10 @@ More figures (`scree`, `learning_curve`, `reconstruction_error`) live in
 
 ```bash
 pip install -r requirements.txt
-python scripts/generate_dataset.py      # writes data/hotel_ratings.csv
-python scripts/run_experiments.py       # prints the table, saves all figures
-streamlit run app.py                     # interactive demo
-pytest -q                                # 8 tests: SVD correctness, FunkSVD recovery, metrics
+python scripts/make_data.py    # writes data/hotel_ratings.csv
+python scripts/run.py          # trains, prints metrics, saves figures, exports the demo
+streamlit run app.py           # interactive local app
+pytest -q
 ```
 
 ## The data
@@ -75,13 +75,9 @@ reproduces it exactly if you drop those CSVs into `dataset/`.
 
 ```
 hotelsvd/
-  svd.py         # power-iteration SVD + deflation (the from-scratch core)
-  funk.py        # FunkSVD — SGD over observed ratings only
-  baselines.py   # item-based CF + K-Means clustering
-  evaluate.py    # RMSE, Recall@K, NDCG@K
-  data.py        # ratings → matrix + masked train/test split
-  viz.py         # every figure
-scripts/         # generate data · run experiments · real-data adapter
-tests/           # correctness + recovery + metric checks
-app.py           # Streamlit demo
+  svd.py     # power-iteration SVD + deflation, and FunkSVD
+  recsys.py  # data, item-based CF, K-Means, metrics, recommendations
+  viz.py     # figures
+scripts/     # make_data.py · run.py
+app.py · docs/ · tests/
 ```
