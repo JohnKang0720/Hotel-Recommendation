@@ -1,0 +1,10 @@
+[project]
+name = "hotelsvd"
+version = "1.0.0"
+description = "Hotel recommendations via matrix factorization, from first principles."
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore:.*matmul.*:RuntimeWarning"]

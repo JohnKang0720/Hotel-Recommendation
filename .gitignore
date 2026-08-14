@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Real data drop-in (kept out of git; see scripts/prepare_tripadvisor.py)
+dataset/

@@ -1,94 +1,87 @@
-# 🏨 Hotel Recommendation System
+# 🏨 Hotel Recommender — SVD from first principles
 
-This project implements and compares **two collaborative filtering–based hotel recommendation systems**:
+Matrix factorization for hotel recommendations, with the SVD **written by hand**
+(power iteration + deflation) instead of called from a library — then measured
+honestly against FunkSVD and item-based collaborative filtering.
 
-1. **Item-Based Collaborative Filtering**
-2. **Singular Value Decomposition (SVD)–Based Collaborative Filtering**
-
-The objective is to recommend hotels to users based on historical interaction data and to analyze the trade-offs between neighborhood-based and latent-factor-based recommendation approaches.
-
----
-
-## 📌 Project Overview
-
-Recommender systems are widely used in platforms such as Airbnb, Booking.com, and Expedia to personalize user experiences.  
-This project explores:
-
-- Item similarity–based recommendations
-- Latent factor modeling using matrix factorization
-- Differences in interpretability, scalability, and personalization
+<!-- Live demo badge is filled in once the Streamlit Cloud app is connected. -->
+**▶ Live demo:** _deploying to Streamlit Cloud — link coming._
 
 ---
 
-## 🧠 Recommendation Models
+## The point
 
-### 1️⃣ Item-Based Collaborative Filtering
+I wanted to actually *understand* SVD, not import it. So the core lives in
+[`hotelsvd/svd.py`](hotelsvd/svd.py): find the top singular vector by running
+power iteration on the Gram matrix, peel off that rank-1 piece, repeat. It
+reproduces `numpy.linalg.svd` to **~1e-14**.
 
-**Notebook:**  
-`hotel_recommendation (item-based).ipynb`
+Then I used it for what SVD is good at — filling in a sparse user × hotel
+ratings matrix so you can recommend hotels a traveller hasn't seen.
 
-#### Methodology
-- Constructs a **user–hotel interaction matrix**
-- Computes **hotel-to-hotel similarity** using cosine similarity
-- Recommends hotels similar to those previously interacted with by a user
+## The bug I fixed
 
-#### Advantages
-- Simple and intuitive
-- Highly interpretable
-- No model training required
+My first version filled every missing rating with `0` and fed that straight into
+the decomposition. Two problems: the recommendations were biased toward zero, and
+the latent-space plot came out as **two meaningless straight lines** (a
+hyper-sparse, zero-filled matrix collapses onto its axes).
 
-#### Limitations
-- Sensitive to sparse interaction data
-- Cannot capture latent user preferences
+The fix is **FunkSVD** — learn the factors by gradient descent over the ratings
+that *actually exist*, and never touch the blanks. Same idea (latent factors),
+correct treatment of missing data. It wins across the board:
 
----
+| Model | RMSE ↓ | Recall@10 ↑ | NDCG@10 ↑ |
+|---|---|---|---|
+| **FunkSVD (observed-only)** | **0.715** | **0.304** | **0.168** |
+| SVD (mean-imputed) | 1.091 | 0.192 | 0.106 |
+| Item-based CF | 0.781 | 0.205 | 0.094 |
 
-### 2️⃣ SVD-Based Collaborative Filtering
+## What it looks like
 
-**Notebook:**  
-`hotel_recommendation.ipynb`
+**The from-scratch SVD lands exactly on NumPy's** — that's the correctness check:
 
-#### Methodology
-- Applies **Singular Value Decomposition (SVD)** to the user–hotel matrix
-- Decomposes interactions into latent user and item factors
-- Predicts unseen interactions by reconstructing the matrix
+![SVD convergence](figures/svd_convergence.png)
 
-#### Advantages
-- Captures hidden user preferences
-- Performs well on sparse datasets
-- Produces more personalized recommendations
+**Hotels in latent space** — the fixed version of the plot that used to be two lines:
 
-#### Limitations
-- Less interpretable
-- Requires hyperparameter tuning
-- Cold-start problem for new users and items
+![Latent map](figures/latent_map.png)
 
----
+**Matrix completion** — sparse ratings in, full reconstruction out:
 
-## 📂 Repository Structure
+![Matrix completion](figures/matrix_completion.png)
 
-```
-Hotel-Recommendation/
-│
-├── hotel_recommendation.ipynb
-├── hotel_recommendation (item-based).ipynb
-└── README.md
+More figures (`scree`, `learning_curve`, `reconstruction_error`) live in
+[`figures/`](figures/) and in the app.
+
+## Run it
+
+```bash
+pip install -r requirements.txt
+python scripts/generate_dataset.py      # writes data/hotel_ratings.csv
+python scripts/run_experiments.py       # prints the table, saves all figures
+streamlit run app.py                     # interactive demo
+pytest -q                                # 8 tests: SVD correctness, FunkSVD recovery, metrics
 ```
 
-## 🚀 How to Run
+## The data
 
-1. Clone the repository:
-   ```bash git clone https://github.com/JohnKang0720/Hotel-Recommendation.git
-   cd Hotel-Recommendation
-    ```
+The demo ships with a small, **seeded** dataset built from a known 4-factor
+structure (Luxury / Location / Value / Family) — which is what lets me *prove*
+the SVD recovers real structure rather than eyeball it. My original pipeline ran
+on the external TripAdvisor dump; [`scripts/prepare_tripadvisor.py`](scripts/prepare_tripadvisor.py)
+reproduces it exactly if you drop those CSVs into `dataset/`.
 
-2. Install Dependencies:
-   ```
-   pip install pandas numpy scikit-learn
-   ```
+## Layout
 
-4. Run the Notebook:
-   ```
-   jupyter notebook ...
-   ```
-
+```
+hotelsvd/
+  svd.py         # power-iteration SVD + deflation (the from-scratch core)
+  funk.py        # FunkSVD — SGD over observed ratings only
+  baselines.py   # item-based CF + K-Means clustering
+  evaluate.py    # RMSE, Recall@K, NDCG@K
+  data.py        # ratings → matrix + masked train/test split
+  viz.py         # every figure
+scripts/         # generate data · run experiments · real-data adapter
+tests/           # correctness + recovery + metric checks
+app.py           # Streamlit demo
+```

@@ -1,0 +1,3809 @@
+user,hotel,city,rating
+user_000,Lantern Suites,New York,5
+user_000,Azure Suites,Toronto,5
+user_000,Summit Lodge,Vancouver,5
+user_000,Vela Suites,Toronto,5
+user_000,Summit Grand Hotel,New York,5
+user_000,Lantern Resort,Austin,5
+user_000,Harbor Grand Hotel,Austin,4
+user_000,Vela Grand Hotel,Austin,3
+user_000,Meridian Grand Hotel,Toronto,5
+user_000,Aspen Resort,New York,5
+user_000,Meridian Resort,New York,4
+user_000,Monarch Inn,Toronto,5
+user_000,Harbor Lodge,Vancouver,5
+user_000,Meridian Suites,Chicago,3
+user_001,Azure Resort,Seattle,4
+user_001,Coral Inn,Chicago,4
+user_001,Monarch Inn,Toronto,5
+user_001,Cascade Grand Hotel,Austin,5
+user_001,Lantern Resort,Austin,5
+user_001,Lantern Grand Hotel,Vancouver,5
+user_001,Aspen Resort,New York,4
+user_001,Harbor Lodge,Vancouver,4
+user_001,Meridian Resort,New York,4
+user_002,Vela Resort,Chicago,4
+user_002,Meridian Suites,Chicago,3
+user_002,Vela Suites,Toronto,4
+user_002,Lantern Resort,Austin,4
+user_002,Meridian Lodge,Chicago,2
+user_002,Regent Resort,Toronto,5
+user_002,Summit Lodge,Vancouver,4
+user_002,Azure Lodge,Vancouver,4
+user_003,Harbor Suites,Austin,2
+user_003,Azure Lodge,Vancouver,3
+user_003,Azure Grand Hotel,Seattle,2
+user_003,Lantern Grand Hotel,Vancouver,3
+user_003,Vela Suites,Toronto,3
+user_003,Meridian Suites,Chicago,2
+user_003,Meridian Grand Hotel,Toronto,4
+user_003,Meridian Resort,New York,3
+user_003,Coral Resort,Toronto,1
+user_003,Cascade Resort,Seattle,2
+user_003,Coral Grand Hotel,New York,1
+user_003,Ivy Resort,New York,4
+user_004,Monarch Inn,Toronto,4
+user_004,Coral Inn,Chicago,4
+user_004,Lantern Resort,Austin,4
+user_004,Lantern Suites,New York,5
+user_004,Meridian Resort,New York,4
+user_004,Azure Resort,Seattle,4
+user_004,Ivy Inn,Chicago,4
+user_005,Harbor Lodge,Vancouver,4
+user_005,Lantern Grand Hotel,Vancouver,4
+user_005,Coral Inn,Chicago,3
+user_005,Coral Lodge,Chicago,4
+user_005,Aspen Lodge,Austin,4
+user_005,Meridian Resort,New York,3
+user_005,Vela Suites,Toronto,3
+user_005,Harbor Resort,Toronto,3
+user_005,Monarch Inn,Toronto,4
+user_005,Monarch Lodge,New York,3
+user_006,Harbor Lodge,Vancouver,4
+user_006,Aspen Lodge,Austin,5
+user_006,Ivy Suites,Vancouver,4
+user_006,Summit Suites,New York,5
+user_006,Ivy Inn,Chicago,5
+user_006,Meridian Resort,New York,5
+user_006,Aspen Grand Hotel,Toronto,4
+user_006,Lantern Inn,Austin,5
+user_007,Summit Inn,Toronto,1
+user_007,Monarch Suites,New York,2
+user_007,Azure Inn,Vancouver,1
+user_007,Coral Lodge,Chicago,2
+user_007,Lantern Inn,Austin,3
+user_007,Meridian Grand Hotel,Toronto,1
+user_008,Aspen Resort,New York,3
+user_008,Vela Lodge,New York,4
+user_008,Harbor Suites,Austin,5
+user_008,Azure Lodge,Vancouver,3
+user_008,Harbor Lodge,Vancouver,5
+user_008,Cascade Suites,Toronto,4
+user_009,Vela Inn,Austin,5
+user_009,Lantern Lodge,Chicago,4
+user_009,Cascade Inn,Seattle,5
+user_009,Regent Inn,New York,4
+user_009,Ivy Grand Hotel,New York,5
+user_009,Azure Suites,Toronto,4
+user_009,Coral Inn,Chicago,5
+user_009,Regent Suites,Vancouver,5
+user_010,Vela Lodge,New York,2
+user_010,Cascade Lodge,Vancouver,3
+user_010,Coral Lodge,Chicago,3
+user_010,Ivy Lodge,Seattle,2
+user_010,Ivy Resort,New York,3
+user_010,Lantern Suites,New York,3
+user_010,Coral Grand Hotel,New York,1
+user_010,Meridian Grand Hotel,Toronto,3
+user_010,Cascade Suites,Toronto,3
+user_010,Coral Resort,Toronto,3
+user_010,Monarch Inn,Toronto,2
+user_010,Azure Resort,Seattle,4
+user_010,Meridian Suites,Chicago,2
+user_010,Aspen Lodge,Austin,4
+user_011,Ivy Resort,New York,2
+user_011,Lantern Resort,Austin,2
+user_011,Monarch Lodge,New York,3
+user_011,Azure Inn,Vancouver,2
+user_011,Azure Suites,Toronto,2
+user_011,Summit Grand Hotel,New York,2
+user_011,Vela Grand Hotel,Austin,2
+user_011,Ivy Inn,Chicago,2
+user_011,Azure Resort,Seattle,2
+user_011,Monarch Grand Hotel,Toronto,3
+user_011,Harbor Inn,Seattle,2
+user_011,Harbor Suites,Austin,2
+user_011,Ivy Suites,Vancouver,3
+user_011,Aspen Resort,New York,3
+user_011,Coral Lodge,Chicago,4
+user_011,Harbor Grand Hotel,Austin,1
+user_011,Meridian Grand Hotel,Toronto,2
+user_011,Lantern Grand Hotel,Vancouver,3
+user_011,Vela Suites,Toronto,2
+user_011,Meridian Lodge,Chicago,4
+user_012,Monarch Lodge,New York,5
+user_012,Lantern Lodge,Chicago,5
+user_012,Lantern Grand Hotel,Vancouver,5
+user_012,Cascade Inn,Seattle,5
+user_012,Azure Inn,Vancouver,5
+user_012,Monarch Inn,Toronto,5
+user_012,Azure Resort,Seattle,5
+user_012,Regent Resort,Toronto,3
+user_013,Summit Grand Hotel,New York,4
+user_013,Coral Suites,Toronto,4
+user_013,Vela Grand Hotel,Austin,4
+user_013,Monarch Grand Hotel,Toronto,4
+user_013,Azure Suites,Toronto,3
+user_013,Cascade Lodge,Vancouver,4
+user_013,Cascade Inn,Seattle,4
+user_013,Azure Inn,Vancouver,4
+user_013,Meridian Grand Hotel,Toronto,4
+user_013,Aspen Lodge,Austin,3
+user_013,Lantern Resort,Austin,4
+user_013,Harbor Lodge,Vancouver,4
+user_013,Ivy Lodge,Seattle,3
+user_013,Monarch Resort,Vancouver,3
+user_013,Summit Lodge,Vancouver,3
+user_013,Coral Inn,Chicago,3
+user_013,Lantern Grand Hotel,Vancouver,3
+user_014,Meridian Suites,Chicago,3
+user_014,Lantern Resort,Austin,3
+user_014,Ivy Lodge,Seattle,3
+user_014,Harbor Resort,Toronto,1
+user_014,Aspen Grand Hotel,Toronto,4
+user_014,Vela Inn,Austin,3
+user_014,Meridian Lodge,Chicago,3
+user_014,Summit Grand Hotel,New York,3
+user_015,Meridian Suites,Chicago,4
+user_015,Aspen Grand Hotel,Toronto,2
+user_015,Azure Lodge,Vancouver,3
+user_015,Azure Suites,Toronto,2
+user_015,Aspen Lodge,Austin,3
+user_015,Monarch Lodge,New York,4
+user_015,Summit Grand Hotel,New York,2
+user_016,Azure Resort,Seattle,4
+user_016,Cascade Suites,Toronto,5
+user_016,Lantern Lodge,Chicago,4
+user_016,Meridian Inn,New York,4
+user_016,Monarch Resort,Vancouver,5
+user_016,Ivy Inn,Chicago,4
+user_016,Meridian Grand Hotel,Toronto,4
+user_016,Summit Lodge,Vancouver,4
+user_017,Lantern Resort,Austin,3
+user_017,Azure Suites,Toronto,3
+user_017,Azure Lodge,Vancouver,3
+user_017,Regent Grand Hotel,Toronto,1
+user_017,Harbor Grand Hotel,Austin,3
+user_017,Aspen Lodge,Austin,4
+user_017,Aspen Grand Hotel,Toronto,3
+user_017,Coral Lodge,Chicago,3
+user_017,Coral Grand Hotel,New York,2
+user_017,Cascade Inn,Seattle,4
+user_018,Azure Suites,Toronto,5
+user_018,Coral Suites,Toronto,5
+user_018,Lantern Lodge,Chicago,5
+user_018,Cascade Inn,Seattle,4
+user_018,Ivy Resort,New York,4
+user_018,Summit Inn,Toronto,5
+user_018,Aspen Inn,New York,5
+user_018,Meridian Suites,Chicago,2
+user_018,Monarch Grand Hotel,Toronto,3
+user_018,Cascade Grand Hotel,Austin,5
+user_018,Aspen Lodge,Austin,3
+user_018,Harbor Grand Hotel,Austin,2
+user_018,Monarch Lodge,New York,2
+user_019,Harbor Suites,Austin,3
+user_019,Cascade Inn,Seattle,4
+user_019,Cascade Grand Hotel,Austin,3
+user_019,Azure Lodge,Vancouver,3
+user_019,Meridian Resort,New York,4
+user_019,Ivy Inn,Chicago,4
+user_019,Regent Grand Hotel,Toronto,3
+user_019,Summit Suites,New York,3
+user_019,Lantern Resort,Austin,2
+user_019,Aspen Inn,New York,1
+user_019,Summit Lodge,Vancouver,3
+user_019,Aspen Lodge,Austin,3
+user_019,Coral Grand Hotel,New York,2
+user_019,Lantern Grand Hotel,Vancouver,4
+user_019,Lantern Suites,New York,2
+user_019,Vela Suites,Toronto,3
+user_019,Harbor Inn,Seattle,4
+user_019,Coral Inn,Chicago,3
+user_019,Monarch Resort,Vancouver,2
+user_020,Azure Inn,Vancouver,5
+user_020,Harbor Suites,Austin,5
+user_020,Vela Lodge,New York,5
+user_020,Coral Grand Hotel,New York,5
+user_020,Meridian Grand Hotel,Toronto,5
+user_020,Vela Suites,Toronto,4
+user_021,Regent Grand Hotel,Toronto,1
+user_021,Lantern Resort,Austin,3
+user_021,Azure Grand Hotel,Seattle,3
+user_021,Summit Grand Hotel,New York,5
+user_021,Regent Inn,New York,3
+user_021,Harbor Grand Hotel,Austin,3
+user_022,Aspen Lodge,Austin,3
+user_022,Lantern Suites,New York,1
+user_022,Regent Grand Hotel,Toronto,5
+user_022,Summit Grand Hotel,New York,2
+user_022,Meridian Grand Hotel,Toronto,3
+user_022,Cascade Lodge,Vancouver,2
+user_023,Vela Suites,Toronto,3
+user_023,Azure Lodge,Vancouver,3
+user_023,Summit Lodge,Vancouver,4
+user_023,Lantern Inn,Austin,3
+user_023,Meridian Suites,Chicago,3
+user_023,Regent Grand Hotel,Toronto,3
+user_023,Coral Grand Hotel,New York,2
+user_023,Summit Grand Hotel,New York,3
+user_023,Harbor Lodge,Vancouver,3
+user_023,Meridian Inn,New York,3
+user_023,Summit Resort,New York,3
+user_023,Azure Suites,Toronto,2
+user_023,Meridian Resort,New York,3
+user_024,Azure Suites,Toronto,1
+user_024,Cascade Suites,Toronto,2
+user_024,Azure Inn,Vancouver,2
+user_024,Vela Suites,Toronto,1
+user_024,Meridian Grand Hotel,Toronto,2
+user_024,Cascade Inn,Seattle,2
+user_025,Vela Inn,Austin,4
+user_025,Ivy Suites,Vancouver,4
+user_025,Vela Lodge,New York,4
+user_025,Harbor Suites,Austin,4
+user_025,Meridian Lodge,Chicago,4
+user_025,Monarch Lodge,New York,4
+user_025,Cascade Grand Hotel,Austin,3
+user_025,Lantern Inn,Austin,5
+user_025,Summit Resort,New York,3
+user_025,Lantern Resort,Austin,4
+user_025,Azure Inn,Vancouver,4
+user_025,Coral Lodge,Chicago,4
+user_025,Ivy Lodge,Seattle,4
+user_025,Coral Suites,Toronto,2
+user_025,Meridian Suites,Chicago,4
+user_025,Ivy Resort,New York,3
+user_025,Vela Suites,Toronto,4
+user_025,Summit Grand Hotel,New York,2
+user_026,Azure Grand Hotel,Seattle,5
+user_026,Ivy Lodge,Seattle,3
+user_026,Azure Inn,Vancouver,2
+user_026,Harbor Suites,Austin,2
+user_026,Regent Grand Hotel,Toronto,1
+user_026,Meridian Suites,Chicago,2
+user_026,Lantern Resort,Austin,3
+user_026,Harbor Lodge,Vancouver,2
+user_026,Monarch Lodge,New York,3
+user_026,Coral Suites,Toronto,3
+user_026,Cascade Resort,Seattle,3
+user_026,Azure Suites,Toronto,4
+user_026,Aspen Lodge,Austin,2
+user_026,Cascade Suites,Toronto,2
+user_026,Azure Resort,Seattle,3
+user_027,Azure Lodge,Vancouver,4
+user_027,Aspen Inn,New York,4
+user_027,Coral Resort,Toronto,2
+user_027,Coral Grand Hotel,New York,4
+user_027,Aspen Grand Hotel,Toronto,5
+user_027,Cascade Suites,Toronto,4
+user_027,Cascade Resort,Seattle,3
+user_027,Cascade Lodge,Vancouver,5
+user_027,Regent Resort,Toronto,3
+user_027,Monarch Inn,Toronto,5
+user_027,Coral Lodge,Chicago,5
+user_027,Vela Grand Hotel,Austin,3
+user_027,Azure Inn,Vancouver,5
+user_027,Regent Suites,Vancouver,4
+user_027,Aspen Lodge,Austin,3
+user_028,Summit Grand Hotel,New York,4
+user_028,Coral Resort,Toronto,5
+user_028,Aspen Lodge,Austin,4
+user_028,Lantern Inn,Austin,4
+user_028,Lantern Resort,Austin,5
+user_028,Lantern Lodge,Chicago,3
+user_029,Ivy Resort,New York,4
+user_029,Lantern Inn,Austin,2
+user_029,Aspen Grand Hotel,Toronto,3
+user_029,Lantern Resort,Austin,3
+user_029,Cascade Inn,Seattle,3
+user_029,Azure Lodge,Vancouver,3
+user_029,Ivy Suites,Vancouver,2
+user_029,Regent Resort,Toronto,3
+user_029,Vela Lodge,New York,3
+user_029,Regent Grand Hotel,Toronto,2
+user_029,Azure Suites,Toronto,4
+user_029,Coral Lodge,Chicago,4
+user_029,Ivy Lodge,Seattle,3
+user_029,Cascade Suites,Toronto,3
+user_029,Azure Grand Hotel,Seattle,3
+user_030,Meridian Grand Hotel,Toronto,4
+user_030,Monarch Inn,Toronto,3
+user_030,Aspen Lodge,Austin,2
+user_030,Harbor Lodge,Vancouver,4
+user_030,Meridian Suites,Chicago,3
+user_030,Summit Lodge,Vancouver,3
+user_030,Coral Suites,Toronto,3
+user_030,Summit Inn,Toronto,3
+user_030,Regent Lodge,New York,2
+user_030,Vela Inn,Austin,2
+user_030,Meridian Lodge,Chicago,5
+user_030,Azure Resort,Seattle,3
+user_030,Cascade Suites,Toronto,3
+user_030,Coral Lodge,Chicago,5
+user_031,Summit Inn,Toronto,2
+user_031,Regent Grand Hotel,Toronto,1
+user_031,Vela Suites,Toronto,3
+user_031,Coral Suites,Toronto,2
+user_031,Azure Inn,Vancouver,4
+user_031,Aspen Resort,New York,3
+user_031,Monarch Inn,Toronto,2
+user_031,Azure Suites,Toronto,3
+user_031,Coral Inn,Chicago,4
+user_031,Meridian Suites,Chicago,3
+user_031,Cascade Resort,Seattle,2
+user_031,Summit Lodge,Vancouver,1
+user_031,Meridian Resort,New York,3
+user_031,Meridian Lodge,Chicago,4
+user_031,Azure Lodge,Vancouver,3
+user_031,Cascade Suites,Toronto,3
+user_032,Summit Grand Hotel,New York,2
+user_032,Meridian Resort,New York,3
+user_032,Cascade Grand Hotel,Austin,2
+user_032,Azure Inn,Vancouver,5
+user_032,Cascade Suites,Toronto,3
+user_032,Harbor Lodge,Vancouver,5
+user_032,Lantern Resort,Austin,3
+user_032,Coral Suites,Toronto,3
+user_032,Harbor Suites,Austin,1
+user_032,Ivy Lodge,Seattle,1
+user_032,Vela Suites,Toronto,2
+user_032,Azure Suites,Toronto,2
+user_032,Monarch Inn,Toronto,4
+user_032,Summit Lodge,Vancouver,2
+user_032,Coral Resort,Toronto,1
+user_032,Vela Grand Hotel,Austin,2
+user_033,Regent Suites,Vancouver,2
+user_033,Coral Inn,Chicago,2
+user_033,Cascade Resort,Seattle,4
+user_033,Coral Suites,Toronto,1
+user_033,Vela Resort,Chicago,2
+user_033,Azure Suites,Toronto,1
+user_033,Harbor Lodge,Vancouver,2
+user_033,Cascade Lodge,Vancouver,2
+user_033,Azure Lodge,Vancouver,2
+user_033,Monarch Inn,Toronto,2
+user_033,Meridian Inn,New York,2
+user_033,Lantern Inn,Austin,2
+user_033,Lantern Resort,Austin,3
+user_033,Meridian Suites,Chicago,3
+user_033,Aspen Grand Hotel,Toronto,2
+user_033,Aspen Inn,New York,1
+user_034,Cascade Lodge,Vancouver,3
+user_034,Aspen Inn,New York,3
+user_034,Regent Grand Hotel,Toronto,2
+user_034,Regent Lodge,New York,3
+user_034,Coral Suites,Toronto,4
+user_034,Cascade Resort,Seattle,2
+user_034,Ivy Resort,New York,4
+user_034,Azure Suites,Toronto,3
+user_034,Azure Resort,Seattle,3
+user_034,Meridian Suites,Chicago,3
+user_034,Meridian Lodge,Chicago,4
+user_034,Azure Inn,Vancouver,3
+user_034,Summit Grand Hotel,New York,3
+user_034,Regent Inn,New York,5
+user_034,Aspen Resort,New York,4
+user_034,Monarch Lodge,New York,3
+user_034,Monarch Inn,Toronto,5
+user_034,Summit Lodge,Vancouver,4
+user_034,Coral Resort,Toronto,2
+user_035,Lantern Grand Hotel,Vancouver,3
+user_035,Meridian Inn,New York,5
+user_035,Aspen Resort,New York,3
+user_035,Azure Suites,Toronto,3
+user_035,Regent Suites,Vancouver,2
+user_035,Vela Grand Hotel,Austin,2
+user_035,Ivy Resort,New York,1
+user_035,Monarch Grand Hotel,Toronto,2
+user_035,Aspen Inn,New York,4
+user_035,Coral Inn,Chicago,2
+user_035,Vela Resort,Chicago,3
+user_035,Regent Grand Hotel,Toronto,1
+user_035,Coral Lodge,Chicago,2
+user_035,Meridian Resort,New York,1
+user_035,Summit Suites,New York,2
+user_035,Ivy Suites,Vancouver,2
+user_035,Summit Inn,Toronto,5
+user_035,Monarch Resort,Vancouver,3
+user_036,Azure Inn,Vancouver,4
+user_036,Cascade Resort,Seattle,4
+user_036,Summit Resort,New York,4
+user_036,Lantern Grand Hotel,Vancouver,4
+user_036,Coral Resort,Toronto,4
+user_036,Coral Inn,Chicago,4
+user_036,Aspen Inn,New York,3
+user_036,Regent Inn,New York,4
+user_036,Azure Resort,Seattle,4
+user_036,Monarch Inn,Toronto,4
+user_036,Summit Suites,New York,4
+user_036,Meridian Resort,New York,3
+user_036,Meridian Grand Hotel,Toronto,5
+user_037,Summit Inn,Toronto,1
+user_037,Monarch Inn,Toronto,3
+user_037,Ivy Resort,New York,5
+user_037,Meridian Resort,New York,3
+user_037,Lantern Grand Hotel,Vancouver,2
+user_037,Azure Lodge,Vancouver,1
+user_038,Coral Grand Hotel,New York,5
+user_038,Harbor Suites,Austin,4
+user_038,Cascade Inn,Seattle,2
+user_038,Meridian Suites,Chicago,4
+user_038,Monarch Grand Hotel,Toronto,3
+user_038,Regent Suites,Vancouver,2
+user_038,Meridian Inn,New York,4
+user_038,Harbor Lodge,Vancouver,2
+user_038,Coral Suites,Toronto,3
+user_038,Ivy Resort,New York,2
+user_038,Lantern Grand Hotel,Vancouver,4
+user_038,Meridian Grand Hotel,Toronto,2
+user_039,Lantern Inn,Austin,2
+user_039,Azure Grand Hotel,Seattle,4
+user_039,Aspen Inn,New York,2
+user_039,Ivy Inn,Chicago,2
+user_039,Harbor Lodge,Vancouver,2
+user_039,Coral Suites,Toronto,2
+user_039,Summit Inn,Toronto,3
+user_039,Ivy Resort,New York,1
+user_039,Lantern Resort,Austin,2
+user_039,Coral Lodge,Chicago,2
+user_039,Aspen Lodge,Austin,2
+user_039,Azure Suites,Toronto,1
+user_039,Meridian Resort,New York,1
+user_039,Cascade Resort,Seattle,4
+user_039,Lantern Grand Hotel,Vancouver,2
+user_039,Azure Resort,Seattle,1
+user_039,Azure Inn,Vancouver,1
+user_040,Ivy Inn,Chicago,3
+user_040,Coral Lodge,Chicago,4
+user_040,Aspen Grand Hotel,Toronto,4
+user_040,Azure Lodge,Vancouver,2
+user_040,Summit Suites,New York,2
+user_040,Lantern Grand Hotel,Vancouver,4
+user_040,Harbor Lodge,Vancouver,4
+user_040,Cascade Inn,Seattle,3
+user_040,Monarch Lodge,New York,3
+user_040,Aspen Resort,New York,3
+user_040,Coral Inn,Chicago,2
+user_041,Aspen Resort,New York,4
+user_041,Cascade Resort,Seattle,2
+user_041,Ivy Inn,Chicago,4
+user_041,Lantern Suites,New York,4
+user_041,Lantern Lodge,Chicago,3
+user_041,Regent Grand Hotel,Toronto,1
+user_041,Meridian Suites,Chicago,3
+user_041,Regent Lodge,New York,5
+user_041,Monarch Inn,Toronto,3
+user_041,Summit Lodge,Vancouver,2
+user_041,Ivy Suites,Vancouver,3
+user_041,Harbor Lodge,Vancouver,2
+user_041,Harbor Grand Hotel,Austin,3
+user_041,Cascade Suites,Toronto,3
+user_041,Ivy Resort,New York,4
+user_041,Coral Inn,Chicago,4
+user_041,Meridian Resort,New York,3
+user_041,Azure Resort,Seattle,5
+user_041,Summit Resort,New York,4
+user_041,Meridian Grand Hotel,Toronto,3
+user_042,Lantern Inn,Austin,3
+user_042,Azure Lodge,Vancouver,2
+user_042,Summit Grand Hotel,New York,2
+user_042,Meridian Resort,New York,3
+user_042,Azure Resort,Seattle,2
+user_042,Monarch Inn,Toronto,3
+user_042,Lantern Grand Hotel,Vancouver,2
+user_042,Meridian Grand Hotel,Toronto,4
+user_043,Cascade Suites,Toronto,3
+user_043,Aspen Inn,New York,3
+user_043,Azure Inn,Vancouver,3
+user_043,Cascade Inn,Seattle,3
+user_043,Coral Resort,Toronto,3
+user_043,Regent Grand Hotel,Toronto,3
+user_043,Lantern Inn,Austin,3
+user_043,Monarch Lodge,New York,3
+user_043,Monarch Grand Hotel,Toronto,3
+user_043,Aspen Lodge,Austin,3
+user_043,Monarch Resort,Vancouver,4
+user_043,Coral Grand Hotel,New York,4
+user_043,Coral Suites,Toronto,3
+user_043,Vela Resort,Chicago,3
+user_043,Regent Lodge,New York,3
+user_043,Lantern Resort,Austin,4
+user_043,Monarch Suites,New York,4
+user_044,Cascade Resort,Seattle,3
+user_044,Cascade Lodge,Vancouver,2
+user_044,Azure Lodge,Vancouver,5
+user_044,Vela Suites,Toronto,4
+user_044,Summit Resort,New York,5
+user_044,Ivy Inn,Chicago,2
+user_044,Harbor Lodge,Vancouver,3
+user_044,Coral Suites,Toronto,3
+user_045,Meridian Resort,New York,5
+user_045,Ivy Inn,Chicago,5
+user_045,Cascade Resort,Seattle,3
+user_045,Azure Suites,Toronto,4
+user_045,Regent Grand Hotel,Toronto,4
+user_045,Coral Lodge,Chicago,4
+user_046,Aspen Lodge,Austin,2
+user_046,Azure Lodge,Vancouver,3
+user_046,Monarch Grand Hotel,Toronto,2
+user_046,Ivy Resort,New York,2
+user_046,Lantern Inn,Austin,3
+user_046,Summit Lodge,Vancouver,3
+user_046,Vela Suites,Toronto,2
+user_047,Vela Inn,Austin,3
+user_047,Harbor Resort,Toronto,4
+user_047,Coral Lodge,Chicago,4
+user_047,Lantern Inn,Austin,4
+user_047,Meridian Inn,New York,4
+user_047,Azure Suites,Toronto,4
+user_047,Regent Lodge,New York,3
+user_047,Monarch Inn,Toronto,4
+user_047,Coral Inn,Chicago,4
+user_047,Cascade Inn,Seattle,5
+user_047,Harbor Lodge,Vancouver,4
+user_047,Summit Grand Hotel,New York,4
+user_047,Regent Inn,New York,5
+user_048,Cascade Suites,Toronto,2
+user_048,Harbor Suites,Austin,2
+user_048,Monarch Inn,Toronto,3
+user_048,Vela Inn,Austin,2
+user_048,Azure Resort,Seattle,3
+user_048,Lantern Grand Hotel,Vancouver,2
+user_048,Azure Suites,Toronto,3
+user_048,Lantern Resort,Austin,2
+user_048,Coral Resort,Toronto,2
+user_048,Cascade Inn,Seattle,2
+user_048,Summit Inn,Toronto,2
+user_049,Azure Grand Hotel,Seattle,2
+user_049,Meridian Resort,New York,4
+user_049,Aspen Suites,New York,3
+user_049,Aspen Lodge,Austin,3
+user_049,Lantern Grand Hotel,Vancouver,3
+user_049,Azure Lodge,Vancouver,3
+user_049,Regent Grand Hotel,Toronto,3
+user_049,Ivy Inn,Chicago,4
+user_049,Azure Suites,Toronto,4
+user_049,Monarch Resort,Vancouver,4
+user_049,Cascade Inn,Seattle,3
+user_049,Monarch Grand Hotel,Toronto,2
+user_049,Monarch Inn,Toronto,2
+user_049,Regent Resort,Toronto,3
+user_049,Cascade Lodge,Vancouver,3
+user_050,Coral Suites,Toronto,1
+user_050,Ivy Lodge,Seattle,1
+user_050,Monarch Resort,Vancouver,1
+user_050,Aspen Lodge,Austin,1
+user_050,Harbor Lodge,Vancouver,2
+user_050,Aspen Grand Hotel,Toronto,2
+user_050,Azure Inn,Vancouver,1
+user_050,Meridian Grand Hotel,Toronto,1
+user_050,Cascade Inn,Seattle,2
+user_050,Azure Grand Hotel,Seattle,3
+user_050,Lantern Grand Hotel,Vancouver,2
+user_050,Vela Resort,Chicago,2
+user_050,Harbor Suites,Austin,3
+user_050,Regent Resort,Toronto,1
+user_050,Regent Lodge,New York,2
+user_050,Cascade Grand Hotel,Austin,2
+user_050,Lantern Resort,Austin,1
+user_050,Lantern Inn,Austin,1
+user_050,Ivy Resort,New York,1
+user_050,Aspen Inn,New York,1
+user_051,Coral Inn,Chicago,3
+user_051,Aspen Lodge,Austin,4
+user_051,Vela Resort,Chicago,3
+user_051,Lantern Resort,Austin,3
+user_051,Cascade Inn,Seattle,3
+user_051,Meridian Suites,Chicago,4
+user_051,Ivy Resort,New York,4
+user_051,Aspen Resort,New York,4
+user_051,Coral Suites,Toronto,3
+user_052,Azure Grand Hotel,Seattle,3
+user_052,Cascade Suites,Toronto,2
+user_052,Regent Resort,Toronto,3
+user_052,Lantern Inn,Austin,2
+user_052,Summit Grand Hotel,New York,2
+user_052,Azure Resort,Seattle,3
+user_052,Harbor Suites,Austin,2
+user_052,Lantern Suites,New York,2
+user_052,Monarch Lodge,New York,3
+user_052,Meridian Resort,New York,2
+user_052,Vela Resort,Chicago,3
+user_052,Cascade Grand Hotel,Austin,3
+user_052,Azure Inn,Vancouver,3
+user_052,Aspen Lodge,Austin,3
+user_052,Coral Resort,Toronto,2
+user_052,Aspen Grand Hotel,Toronto,3
+user_052,Ivy Resort,New York,3
+user_052,Aspen Resort,New York,2
+user_052,Regent Grand Hotel,Toronto,2
+user_052,Cascade Resort,Seattle,3
+user_053,Coral Resort,Toronto,2
+user_053,Aspen Grand Hotel,Toronto,4
+user_053,Ivy Grand Hotel,New York,3
+user_053,Summit Suites,New York,3
+user_053,Azure Resort,Seattle,4
+user_053,Summit Resort,New York,3
+user_053,Lantern Grand Hotel,Vancouver,3
+user_053,Ivy Suites,Vancouver,2
+user_053,Meridian Resort,New York,3
+user_053,Ivy Resort,New York,4
+user_053,Coral Grand Hotel,New York,3
+user_053,Azure Inn,Vancouver,3
+user_053,Coral Suites,Toronto,4
+user_053,Coral Inn,Chicago,3
+user_054,Ivy Lodge,Seattle,1
+user_054,Cascade Resort,Seattle,2
+user_054,Lantern Suites,New York,1
+user_054,Coral Lodge,Chicago,3
+user_054,Lantern Grand Hotel,Vancouver,3
+user_054,Azure Suites,Toronto,2
+user_054,Meridian Inn,New York,3
+user_054,Harbor Lodge,Vancouver,3
+user_054,Monarch Lodge,New York,3
+user_054,Coral Resort,Toronto,1
+user_054,Monarch Inn,Toronto,3
+user_054,Meridian Suites,Chicago,3
+user_054,Lantern Inn,Austin,2
+user_054,Aspen Grand Hotel,Toronto,3
+user_054,Monarch Resort,Vancouver,2
+user_054,Aspen Lodge,Austin,2
+user_054,Aspen Suites,New York,2
+user_055,Coral Lodge,Chicago,5
+user_055,Monarch Grand Hotel,Toronto,4
+user_055,Regent Suites,Vancouver,4
+user_055,Harbor Suites,Austin,4
+user_055,Aspen Suites,New York,4
+user_055,Azure Lodge,Vancouver,4
+user_055,Cascade Inn,Seattle,5
+user_055,Vela Lodge,New York,4
+user_056,Summit Resort,New York,4
+user_056,Ivy Inn,Chicago,3
+user_056,Harbor Inn,Seattle,3
+user_056,Meridian Grand Hotel,Toronto,2
+user_056,Meridian Suites,Chicago,4
+user_056,Aspen Grand Hotel,Toronto,4
+user_056,Lantern Grand Hotel,Vancouver,3
+user_056,Azure Inn,Vancouver,4
+user_056,Cascade Inn,Seattle,3
+user_056,Cascade Suites,Toronto,2
+user_056,Monarch Suites,New York,4
+user_056,Coral Grand Hotel,New York,4
+user_056,Azure Lodge,Vancouver,4
+user_056,Meridian Lodge,Chicago,3
+user_056,Summit Grand Hotel,New York,4
+user_056,Monarch Lodge,New York,4
+user_056,Coral Suites,Toronto,4
+user_056,Monarch Inn,Toronto,4
+user_056,Summit Suites,New York,5
+user_056,Vela Inn,Austin,3
+user_057,Summit Resort,New York,4
+user_057,Azure Resort,Seattle,5
+user_057,Aspen Lodge,Austin,4
+user_057,Monarch Suites,New York,3
+user_057,Monarch Grand Hotel,Toronto,2
+user_057,Monarch Inn,Toronto,4
+user_057,Cascade Suites,Toronto,3
+user_057,Monarch Resort,Vancouver,5
+user_057,Aspen Grand Hotel,Toronto,4
+user_057,Coral Suites,Toronto,4
+user_057,Aspen Resort,New York,4
+user_057,Azure Lodge,Vancouver,4
+user_057,Azure Inn,Vancouver,5
+user_058,Vela Resort,Chicago,5
+user_058,Cascade Resort,Seattle,3
+user_058,Monarch Grand Hotel,Toronto,4
+user_058,Summit Inn,Toronto,3
+user_058,Lantern Grand Hotel,Vancouver,4
+user_058,Aspen Inn,New York,3
+user_058,Coral Inn,Chicago,5
+user_058,Meridian Suites,Chicago,3
+user_058,Cascade Grand Hotel,Austin,3
+user_059,Cascade Resort,Seattle,1
+user_059,Ivy Inn,Chicago,2
+user_059,Harbor Suites,Austin,1
+user_059,Meridian Grand Hotel,Toronto,2
+user_059,Regent Grand Hotel,Toronto,1
+user_059,Azure Lodge,Vancouver,2
+user_059,Meridian Lodge,Chicago,3
+user_059,Meridian Resort,New York,1
+user_059,Coral Inn,Chicago,2
+user_059,Vela Inn,Austin,2
+user_059,Lantern Grand Hotel,Vancouver,2
+user_059,Aspen Grand Hotel,Toronto,3
+user_059,Summit Resort,New York,1
+user_059,Azure Grand Hotel,Seattle,4
+user_059,Lantern Suites,New York,1
+user_059,Vela Lodge,New York,2
+user_059,Meridian Suites,Chicago,1
+user_059,Coral Lodge,Chicago,2
+user_059,Regent Lodge,New York,2
+user_060,Meridian Grand Hotel,Toronto,2
+user_060,Ivy Resort,New York,2
+user_060,Lantern Grand Hotel,Vancouver,4
+user_060,Lantern Resort,Austin,3
+user_060,Meridian Suites,Chicago,3
+user_060,Vela Suites,Toronto,3
+user_060,Aspen Resort,New York,2
+user_060,Ivy Suites,Vancouver,3
+user_060,Cascade Resort,Seattle,3
+user_060,Azure Resort,Seattle,3
+user_060,Azure Suites,Toronto,4
+user_060,Cascade Lodge,Vancouver,2
+user_060,Azure Inn,Vancouver,2
+user_061,Meridian Lodge,Chicago,4
+user_061,Aspen Inn,New York,5
+user_061,Vela Suites,Toronto,4
+user_061,Summit Suites,New York,5
+user_061,Cascade Resort,Seattle,5
+user_061,Meridian Suites,Chicago,4
+user_061,Meridian Resort,New York,5
+user_061,Meridian Inn,New York,5
+user_061,Harbor Resort,Toronto,5
+user_061,Ivy Lodge,Seattle,5
+user_061,Coral Lodge,Chicago,5
+user_061,Summit Resort,New York,5
+user_061,Regent Grand Hotel,Toronto,5
+user_061,Monarch Lodge,New York,5
+user_061,Aspen Lodge,Austin,5
+user_061,Vela Grand Hotel,Austin,5
+user_061,Lantern Grand Hotel,Vancouver,5
+user_061,Harbor Lodge,Vancouver,5
+user_061,Vela Lodge,New York,5
+user_062,Monarch Lodge,New York,2
+user_062,Azure Inn,Vancouver,4
+user_062,Coral Suites,Toronto,3
+user_062,Vela Lodge,New York,2
+user_062,Regent Suites,Vancouver,3
+user_062,Vela Suites,Toronto,3
+user_062,Meridian Resort,New York,2
+user_062,Aspen Suites,New York,2
+user_062,Coral Grand Hotel,New York,1
+user_062,Summit Suites,New York,4
+user_062,Lantern Resort,Austin,4
+user_062,Azure Suites,Toronto,3
+user_062,Coral Inn,Chicago,4
+user_062,Azure Resort,Seattle,3
+user_062,Ivy Lodge,Seattle,2
+user_062,Meridian Grand Hotel,Toronto,2
+user_062,Harbor Resort,Toronto,3
+user_062,Ivy Grand Hotel,New York,4
+user_062,Monarch Resort,Vancouver,3
+user_062,Monarch Grand Hotel,Toronto,2
+user_063,Meridian Suites,Chicago,4
+user_063,Cascade Grand Hotel,Austin,4
+user_063,Regent Grand Hotel,Toronto,4
+user_063,Lantern Inn,Austin,4
+user_063,Summit Grand Hotel,New York,4
+user_063,Ivy Inn,Chicago,3
+user_063,Coral Grand Hotel,New York,4
+user_063,Lantern Resort,Austin,4
+user_063,Harbor Grand Hotel,Austin,3
+user_063,Meridian Lodge,Chicago,5
+user_063,Coral Lodge,Chicago,4
+user_063,Cascade Inn,Seattle,4
+user_064,Lantern Lodge,Chicago,4
+user_064,Meridian Lodge,Chicago,4
+user_064,Coral Lodge,Chicago,4
+user_064,Aspen Resort,New York,4
+user_064,Cascade Lodge,Vancouver,5
+user_064,Meridian Resort,New York,4
+user_064,Monarch Resort,Vancouver,5
+user_064,Azure Lodge,Vancouver,5
+user_064,Summit Grand Hotel,New York,5
+user_064,Ivy Inn,Chicago,4
+user_064,Vela Suites,Toronto,5
+user_064,Regent Resort,Toronto,5
+user_064,Azure Inn,Vancouver,4
+user_064,Cascade Resort,Seattle,5
+user_064,Lantern Grand Hotel,Vancouver,5
+user_064,Lantern Inn,Austin,5
+user_064,Coral Resort,Toronto,5
+user_064,Coral Suites,Toronto,5
+user_064,Coral Grand Hotel,New York,5
+user_065,Monarch Resort,Vancouver,2
+user_065,Cascade Resort,Seattle,4
+user_065,Vela Resort,Chicago,3
+user_065,Azure Resort,Seattle,3
+user_065,Meridian Inn,New York,4
+user_065,Lantern Inn,Austin,3
+user_065,Summit Suites,New York,2
+user_065,Aspen Grand Hotel,Toronto,4
+user_065,Regent Grand Hotel,Toronto,4
+user_065,Meridian Resort,New York,3
+user_065,Monarch Inn,Toronto,4
+user_065,Coral Resort,Toronto,3
+user_065,Vela Inn,Austin,3
+user_065,Coral Lodge,Chicago,3
+user_065,Cascade Suites,Toronto,3
+user_065,Summit Lodge,Vancouver,4
+user_065,Summit Inn,Toronto,4
+user_065,Vela Grand Hotel,Austin,4
+user_065,Meridian Grand Hotel,Toronto,4
+user_066,Regent Inn,New York,3
+user_066,Summit Inn,Toronto,4
+user_066,Meridian Inn,New York,3
+user_066,Lantern Resort,Austin,4
+user_066,Azure Suites,Toronto,3
+user_066,Monarch Inn,Toronto,2
+user_066,Azure Inn,Vancouver,2
+user_066,Regent Grand Hotel,Toronto,5
+user_066,Coral Grand Hotel,New York,4
+user_066,Meridian Suites,Chicago,4
+user_066,Azure Grand Hotel,Seattle,3
+user_066,Coral Suites,Toronto,3
+user_066,Coral Lodge,Chicago,2
+user_067,Monarch Lodge,New York,3
+user_067,Azure Inn,Vancouver,1
+user_067,Lantern Resort,Austin,3
+user_067,Summit Suites,New York,1
+user_067,Aspen Lodge,Austin,2
+user_067,Harbor Suites,Austin,2
+user_067,Cascade Inn,Seattle,1
+user_067,Monarch Grand Hotel,Toronto,2
+user_067,Monarch Suites,New York,3
+user_067,Meridian Grand Hotel,Toronto,1
+user_067,Lantern Lodge,Chicago,1
+user_067,Coral Inn,Chicago,1
+user_067,Azure Lodge,Vancouver,2
+user_067,Vela Inn,Austin,3
+user_067,Summit Inn,Toronto,2
+user_067,Ivy Resort,New York,1
+user_068,Summit Lodge,Vancouver,5
+user_068,Cascade Resort,Seattle,3
+user_068,Coral Inn,Chicago,2
+user_068,Regent Lodge,New York,4
+user_068,Azure Inn,Vancouver,2
+user_068,Cascade Suites,Toronto,2
+user_068,Summit Grand Hotel,New York,2
+user_068,Regent Grand Hotel,Toronto,2
+user_068,Meridian Resort,New York,3
+user_068,Lantern Inn,Austin,2
+user_068,Vela Suites,Toronto,2
+user_068,Monarch Inn,Toronto,2
+user_068,Azure Lodge,Vancouver,4
+user_068,Vela Inn,Austin,3
+user_069,Meridian Suites,Chicago,3
+user_069,Regent Lodge,New York,2
+user_069,Summit Lodge,Vancouver,4
+user_069,Regent Resort,Toronto,2
+user_069,Lantern Lodge,Chicago,2
+user_069,Monarch Inn,Toronto,3
+user_069,Summit Suites,New York,1
+user_069,Coral Lodge,Chicago,3
+user_069,Harbor Grand Hotel,Austin,1
+user_069,Ivy Inn,Chicago,2
+user_069,Azure Suites,Toronto,1
+user_069,Monarch Lodge,New York,3
+user_070,Monarch Lodge,New York,4
+user_070,Meridian Grand Hotel,Toronto,4
+user_070,Azure Lodge,Vancouver,5
+user_070,Coral Lodge,Chicago,4
+user_070,Monarch Inn,Toronto,5
+user_070,Meridian Suites,Chicago,5
+user_070,Monarch Resort,Vancouver,5
+user_070,Ivy Inn,Chicago,4
+user_070,Coral Inn,Chicago,5
+user_071,Regent Resort,Toronto,4
+user_071,Regent Inn,New York,5
+user_071,Harbor Grand Hotel,Austin,5
+user_071,Coral Inn,Chicago,5
+user_071,Aspen Lodge,Austin,4
+user_071,Coral Suites,Toronto,5
+user_071,Harbor Suites,Austin,5
+user_071,Monarch Grand Hotel,Toronto,4
+user_071,Meridian Suites,Chicago,4
+user_071,Harbor Lodge,Vancouver,5
+user_071,Regent Lodge,New York,4
+user_071,Azure Lodge,Vancouver,5
+user_072,Regent Grand Hotel,Toronto,4
+user_072,Cascade Resort,Seattle,3
+user_072,Meridian Suites,Chicago,4
+user_072,Meridian Resort,New York,5
+user_072,Harbor Lodge,Vancouver,3
+user_072,Cascade Suites,Toronto,3
+user_072,Summit Inn,Toronto,4
+user_072,Ivy Inn,Chicago,4
+user_072,Harbor Suites,Austin,4
+user_072,Cascade Inn,Seattle,4
+user_072,Aspen Inn,New York,5
+user_072,Lantern Resort,Austin,5
+user_072,Vela Resort,Chicago,5
+user_073,Cascade Resort,Seattle,4
+user_073,Meridian Lodge,Chicago,3
+user_073,Monarch Lodge,New York,4
+user_073,Meridian Suites,Chicago,4
+user_073,Regent Inn,New York,4
+user_073,Meridian Grand Hotel,Toronto,4
+user_073,Ivy Suites,Vancouver,4
+user_073,Lantern Suites,New York,5
+user_073,Vela Grand Hotel,Austin,4
+user_073,Aspen Lodge,Austin,5
+user_073,Monarch Grand Hotel,Toronto,3
+user_073,Monarch Inn,Toronto,5
+user_073,Harbor Suites,Austin,3
+user_073,Cascade Grand Hotel,Austin,4
+user_073,Lantern Inn,Austin,5
+user_073,Lantern Resort,Austin,5
+user_073,Ivy Inn,Chicago,3
+user_074,Harbor Lodge,Vancouver,3
+user_074,Regent Suites,Vancouver,3
+user_074,Regent Lodge,New York,3
+user_074,Azure Suites,Toronto,3
+user_074,Ivy Lodge,Seattle,3
+user_074,Lantern Lodge,Chicago,4
+user_074,Meridian Inn,New York,2
+user_074,Coral Resort,Toronto,5
+user_074,Ivy Resort,New York,4
+user_074,Vela Suites,Toronto,4
+user_074,Vela Lodge,New York,4
+user_074,Coral Lodge,Chicago,4
+user_074,Lantern Inn,Austin,5
+user_074,Lantern Grand Hotel,Vancouver,4
+user_074,Regent Grand Hotel,Toronto,5
+user_074,Cascade Suites,Toronto,4
+user_074,Cascade Resort,Seattle,5
+user_074,Harbor Inn,Seattle,5
+user_074,Azure Resort,Seattle,3
+user_074,Summit Grand Hotel,New York,3
+user_075,Lantern Inn,Austin,4
+user_075,Aspen Lodge,Austin,2
+user_075,Harbor Lodge,Vancouver,3
+user_075,Harbor Grand Hotel,Austin,3
+user_075,Ivy Lodge,Seattle,3
+user_075,Meridian Resort,New York,3
+user_075,Ivy Inn,Chicago,3
+user_075,Vela Lodge,New York,5
+user_075,Monarch Lodge,New York,4
+user_075,Regent Resort,Toronto,2
+user_075,Aspen Resort,New York,3
+user_075,Harbor Suites,Austin,4
+user_075,Lantern Grand Hotel,Vancouver,4
+user_075,Coral Suites,Toronto,4
+user_075,Summit Suites,New York,1
+user_076,Monarch Inn,Toronto,2
+user_076,Coral Resort,Toronto,3
+user_076,Lantern Grand Hotel,Vancouver,2
+user_076,Monarch Lodge,New York,4
+user_076,Meridian Resort,New York,2
+user_076,Regent Grand Hotel,Toronto,4
+user_076,Cascade Lodge,Vancouver,1
+user_076,Lantern Resort,Austin,3
+user_076,Azure Inn,Vancouver,2
+user_076,Meridian Suites,Chicago,3
+user_076,Harbor Suites,Austin,4
+user_076,Summit Suites,New York,1
+user_076,Monarch Grand Hotel,Toronto,3
+user_076,Regent Suites,Vancouver,1
+user_076,Coral Inn,Chicago,1
+user_077,Monarch Suites,New York,5
+user_077,Cascade Resort,Seattle,5
+user_077,Coral Resort,Toronto,5
+user_077,Meridian Suites,Chicago,4
+user_077,Coral Lodge,Chicago,5
+user_077,Coral Inn,Chicago,4
+user_077,Regent Resort,Toronto,3
+user_077,Regent Inn,New York,5
+user_077,Azure Inn,Vancouver,4
+user_077,Aspen Inn,New York,4
+user_077,Cascade Suites,Toronto,4
+user_077,Aspen Lodge,Austin,4
+user_077,Aspen Resort,New York,4
+user_077,Meridian Resort,New York,5
+user_077,Cascade Lodge,Vancouver,5
+user_077,Lantern Grand Hotel,Vancouver,5
+user_078,Cascade Resort,Seattle,3
+user_078,Cascade Inn,Seattle,4
+user_078,Lantern Inn,Austin,3
+user_078,Ivy Inn,Chicago,5
+user_078,Coral Inn,Chicago,3
+user_078,Meridian Suites,Chicago,4
+user_078,Monarch Lodge,New York,4
+user_078,Meridian Resort,New York,3
+user_078,Coral Resort,Toronto,2
+user_078,Lantern Grand Hotel,Vancouver,4
+user_078,Coral Grand Hotel,New York,4
+user_079,Cascade Inn,Seattle,3
+user_079,Cascade Grand Hotel,Austin,3
+user_079,Vela Suites,Toronto,3
+user_079,Meridian Grand Hotel,Toronto,3
+user_079,Coral Inn,Chicago,4
+user_079,Aspen Inn,New York,4
+user_079,Coral Resort,Toronto,4
+user_080,Aspen Lodge,Austin,3
+user_080,Azure Resort,Seattle,3
+user_080,Coral Lodge,Chicago,3
+user_080,Azure Grand Hotel,Seattle,4
+user_080,Vela Grand Hotel,Austin,3
+user_080,Aspen Resort,New York,3
+user_080,Cascade Inn,Seattle,4
+user_080,Lantern Suites,New York,3
+user_080,Vela Suites,Toronto,3
+user_080,Cascade Grand Hotel,Austin,4
+user_080,Coral Inn,Chicago,4
+user_080,Meridian Resort,New York,3
+user_080,Monarch Inn,Toronto,3
+user_080,Azure Lodge,Vancouver,3
+user_080,Regent Suites,Vancouver,3
+user_081,Lantern Inn,Austin,4
+user_081,Vela Suites,Toronto,5
+user_081,Coral Resort,Toronto,4
+user_081,Monarch Inn,Toronto,5
+user_081,Lantern Lodge,Chicago,5
+user_081,Ivy Inn,Chicago,5
+user_081,Coral Inn,Chicago,5
+user_081,Summit Suites,New York,5
+user_082,Summit Inn,Toronto,4
+user_082,Meridian Inn,New York,5
+user_082,Ivy Inn,Chicago,5
+user_082,Azure Resort,Seattle,5
+user_082,Cascade Suites,Toronto,5
+user_082,Cascade Lodge,Vancouver,5
+user_082,Monarch Lodge,New York,5
+user_083,Summit Suites,New York,4
+user_083,Cascade Lodge,Vancouver,5
+user_083,Vela Inn,Austin,4
+user_083,Cascade Inn,Seattle,5
+user_083,Aspen Inn,New York,4
+user_083,Cascade Resort,Seattle,4
+user_083,Coral Inn,Chicago,5
+user_083,Cascade Grand Hotel,Austin,4
+user_083,Vela Lodge,New York,5
+user_083,Aspen Suites,New York,3
+user_083,Lantern Grand Hotel,Vancouver,4
+user_083,Monarch Inn,Toronto,4
+user_083,Meridian Suites,Chicago,3
+user_083,Ivy Inn,Chicago,5
+user_083,Meridian Lodge,Chicago,5
+user_083,Cascade Suites,Toronto,4
+user_083,Meridian Resort,New York,4
+user_083,Azure Inn,Vancouver,5
+user_084,Lantern Lodge,Chicago,3
+user_084,Cascade Suites,Toronto,3
+user_084,Monarch Inn,Toronto,2
+user_084,Coral Grand Hotel,New York,1
+user_084,Azure Inn,Vancouver,2
+user_084,Coral Suites,Toronto,2
+user_084,Summit Grand Hotel,New York,1
+user_084,Vela Grand Hotel,Austin,3
+user_084,Meridian Resort,New York,2
+user_084,Lantern Inn,Austin,3
+user_084,Ivy Resort,New York,3
+user_084,Azure Resort,Seattle,2
+user_084,Azure Lodge,Vancouver,1
+user_084,Lantern Resort,Austin,2
+user_084,Cascade Lodge,Vancouver,3
+user_084,Coral Lodge,Chicago,3
+user_084,Vela Suites,Toronto,2
+user_084,Aspen Lodge,Austin,2
+user_084,Monarch Suites,New York,3
+user_084,Monarch Lodge,New York,2
+user_085,Azure Lodge,Vancouver,4
+user_085,Azure Resort,Seattle,4
+user_085,Harbor Resort,Toronto,4
+user_085,Ivy Inn,Chicago,4
+user_085,Coral Suites,Toronto,4
+user_085,Coral Resort,Toronto,3
+user_085,Aspen Grand Hotel,Toronto,3
+user_086,Regent Grand Hotel,Toronto,4
+user_086,Cascade Grand Hotel,Austin,4
+user_086,Harbor Inn,Seattle,4
+user_086,Azure Lodge,Vancouver,3
+user_086,Lantern Resort,Austin,3
+user_086,Monarch Inn,Toronto,4
+user_086,Cascade Inn,Seattle,4
+user_086,Meridian Grand Hotel,Toronto,4
+user_086,Monarch Grand Hotel,Toronto,4
+user_086,Meridian Lodge,Chicago,3
+user_086,Cascade Suites,Toronto,4
+user_086,Ivy Lodge,Seattle,3
+user_086,Cascade Resort,Seattle,3
+user_086,Meridian Resort,New York,2
+user_086,Lantern Inn,Austin,3
+user_087,Summit Inn,Toronto,5
+user_087,Meridian Resort,New York,3
+user_087,Vela Inn,Austin,3
+user_087,Summit Suites,New York,3
+user_087,Meridian Grand Hotel,Toronto,2
+user_087,Coral Inn,Chicago,3
+user_087,Harbor Resort,Toronto,3
+user_087,Aspen Grand Hotel,Toronto,4
+user_087,Coral Suites,Toronto,4
+user_088,Cascade Inn,Seattle,4
+user_088,Azure Inn,Vancouver,3
+user_088,Coral Suites,Toronto,3
+user_088,Cascade Lodge,Vancouver,2
+user_088,Cascade Suites,Toronto,3
+user_088,Azure Lodge,Vancouver,4
+user_088,Ivy Lodge,Seattle,5
+user_089,Cascade Resort,Seattle,3
+user_089,Azure Lodge,Vancouver,5
+user_089,Ivy Lodge,Seattle,5
+user_089,Vela Inn,Austin,5
+user_089,Lantern Lodge,Chicago,2
+user_089,Regent Suites,Vancouver,4
+user_090,Vela Resort,Chicago,5
+user_090,Regent Suites,Vancouver,5
+user_090,Cascade Resort,Seattle,3
+user_090,Summit Suites,New York,5
+user_090,Vela Grand Hotel,Austin,4
+user_090,Coral Grand Hotel,New York,5
+user_091,Aspen Resort,New York,4
+user_091,Vela Inn,Austin,4
+user_091,Coral Grand Hotel,New York,5
+user_091,Harbor Lodge,Vancouver,4
+user_091,Meridian Inn,New York,5
+user_091,Ivy Lodge,Seattle,4
+user_092,Meridian Suites,Chicago,4
+user_092,Azure Resort,Seattle,5
+user_092,Aspen Grand Hotel,Toronto,5
+user_092,Lantern Resort,Austin,5
+user_092,Azure Grand Hotel,Seattle,5
+user_092,Cascade Inn,Seattle,5
+user_092,Monarch Resort,Vancouver,5
+user_092,Cascade Lodge,Vancouver,5
+user_092,Lantern Grand Hotel,Vancouver,5
+user_093,Monarch Inn,Toronto,2
+user_093,Lantern Suites,New York,4
+user_093,Regent Resort,Toronto,5
+user_093,Regent Inn,New York,3
+user_093,Monarch Grand Hotel,Toronto,3
+user_093,Azure Suites,Toronto,3
+user_093,Harbor Lodge,Vancouver,4
+user_093,Coral Suites,Toronto,3
+user_093,Summit Suites,New York,5
+user_093,Ivy Inn,Chicago,5
+user_093,Cascade Lodge,Vancouver,4
+user_093,Meridian Resort,New York,5
+user_093,Regent Grand Hotel,Toronto,5
+user_093,Monarch Lodge,New York,4
+user_093,Vela Resort,Chicago,4
+user_093,Aspen Lodge,Austin,5
+user_093,Regent Suites,Vancouver,4
+user_093,Harbor Resort,Toronto,5
+user_093,Azure Grand Hotel,Seattle,2
+user_093,Vela Grand Hotel,Austin,4
+user_094,Cascade Inn,Seattle,4
+user_094,Meridian Suites,Chicago,4
+user_094,Monarch Lodge,New York,4
+user_094,Cascade Resort,Seattle,4
+user_094,Ivy Lodge,Seattle,3
+user_094,Azure Resort,Seattle,3
+user_094,Lantern Grand Hotel,Vancouver,4
+user_094,Aspen Lodge,Austin,4
+user_094,Summit Lodge,Vancouver,5
+user_094,Regent Grand Hotel,Toronto,5
+user_094,Vela Lodge,New York,4
+user_095,Vela Inn,Austin,3
+user_095,Cascade Inn,Seattle,2
+user_095,Regent Inn,New York,3
+user_095,Coral Grand Hotel,New York,2
+user_095,Azure Lodge,Vancouver,3
+user_095,Lantern Grand Hotel,Vancouver,4
+user_095,Ivy Lodge,Seattle,3
+user_095,Azure Suites,Toronto,3
+user_095,Cascade Grand Hotel,Austin,2
+user_096,Azure Suites,Toronto,3
+user_096,Summit Suites,New York,4
+user_096,Summit Inn,Toronto,2
+user_096,Azure Inn,Vancouver,3
+user_096,Harbor Inn,Seattle,3
+user_096,Meridian Grand Hotel,Toronto,2
+user_097,Aspen Lodge,Austin,4
+user_097,Cascade Grand Hotel,Austin,5
+user_097,Regent Lodge,New York,5
+user_097,Summit Suites,New York,5
+user_097,Monarch Lodge,New York,5
+user_097,Azure Inn,Vancouver,4
+user_097,Coral Lodge,Chicago,5
+user_097,Aspen Grand Hotel,Toronto,5
+user_097,Azure Lodge,Vancouver,5
+user_097,Cascade Suites,Toronto,5
+user_097,Lantern Grand Hotel,Vancouver,4
+user_097,Vela Resort,Chicago,5
+user_097,Cascade Resort,Seattle,5
+user_097,Harbor Grand Hotel,Austin,5
+user_097,Regent Suites,Vancouver,5
+user_097,Regent Grand Hotel,Toronto,5
+user_097,Azure Resort,Seattle,4
+user_097,Monarch Grand Hotel,Toronto,5
+user_097,Monarch Resort,Vancouver,4
+user_097,Coral Inn,Chicago,4
+user_098,Vela Resort,Chicago,1
+user_098,Regent Inn,New York,2
+user_098,Summit Lodge,Vancouver,2
+user_098,Azure Lodge,Vancouver,2
+user_098,Harbor Lodge,Vancouver,1
+user_098,Aspen Inn,New York,1
+user_098,Meridian Suites,Chicago,3
+user_098,Cascade Inn,Seattle,1
+user_099,Regent Grand Hotel,Toronto,1
+user_099,Coral Resort,Toronto,1
+user_099,Vela Lodge,New York,2
+user_099,Monarch Lodge,New York,1
+user_099,Aspen Inn,New York,1
+user_099,Meridian Grand Hotel,Toronto,1
+user_099,Regent Resort,Toronto,1
+user_099,Aspen Grand Hotel,Toronto,4
+user_099,Harbor Grand Hotel,Austin,1
+user_099,Cascade Resort,Seattle,1
+user_099,Regent Suites,Vancouver,2
+user_099,Regent Lodge,New York,3
+user_099,Meridian Resort,New York,1
+user_099,Azure Inn,Vancouver,3
+user_099,Azure Lodge,Vancouver,1
+user_099,Lantern Inn,Austin,1
+user_099,Meridian Inn,New York,2
+user_099,Monarch Resort,Vancouver,1
+user_099,Azure Suites,Toronto,2
+user_100,Lantern Grand Hotel,Vancouver,3
+user_100,Cascade Lodge,Vancouver,3
+user_100,Coral Inn,Chicago,4
+user_100,Vela Resort,Chicago,4
+user_100,Lantern Inn,Austin,4
+user_100,Aspen Lodge,Austin,4
+user_100,Lantern Resort,Austin,4
+user_100,Summit Suites,New York,4
+user_100,Cascade Suites,Toronto,3
+user_100,Azure Inn,Vancouver,4
+user_100,Summit Lodge,Vancouver,3
+user_100,Meridian Suites,Chicago,4
+user_100,Vela Lodge,New York,4
+user_101,Aspen Lodge,Austin,3
+user_101,Lantern Grand Hotel,Vancouver,2
+user_101,Cascade Grand Hotel,Austin,2
+user_101,Azure Inn,Vancouver,3
+user_101,Meridian Suites,Chicago,2
+user_101,Vela Suites,Toronto,3
+user_101,Ivy Inn,Chicago,2
+user_102,Lantern Suites,New York,5
+user_102,Lantern Resort,Austin,5
+user_102,Azure Grand Hotel,Seattle,5
+user_102,Meridian Resort,New York,5
+user_102,Monarch Resort,Vancouver,5
+user_102,Cascade Suites,Toronto,5
+user_102,Azure Suites,Toronto,5
+user_102,Ivy Resort,New York,5
+user_102,Regent Suites,Vancouver,5
+user_102,Summit Lodge,Vancouver,5
+user_102,Aspen Resort,New York,5
+user_102,Lantern Lodge,Chicago,5
+user_102,Regent Resort,Toronto,5
+user_102,Cascade Inn,Seattle,5
+user_102,Azure Resort,Seattle,5
+user_102,Vela Inn,Austin,5
+user_102,Lantern Inn,Austin,5
+user_102,Vela Lodge,New York,5
+user_102,Meridian Inn,New York,5
+user_103,Coral Lodge,Chicago,3
+user_103,Lantern Suites,New York,3
+user_103,Cascade Inn,Seattle,3
+user_103,Harbor Lodge,Vancouver,3
+user_103,Ivy Inn,Chicago,4
+user_103,Regent Suites,Vancouver,3
+user_103,Lantern Inn,Austin,5
+user_103,Vela Grand Hotel,Austin,5
+user_103,Meridian Resort,New York,4
+user_104,Cascade Inn,Seattle,3
+user_104,Azure Suites,Toronto,3
+user_104,Lantern Inn,Austin,4
+user_104,Cascade Resort,Seattle,3
+user_104,Regent Inn,New York,3
+user_104,Coral Lodge,Chicago,3
+user_104,Ivy Grand Hotel,New York,3
+user_104,Regent Suites,Vancouver,3
+user_104,Vela Inn,Austin,3
+user_104,Ivy Inn,Chicago,3
+user_104,Meridian Resort,New York,3
+user_105,Regent Suites,Vancouver,4
+user_105,Meridian Resort,New York,2
+user_105,Monarch Grand Hotel,Toronto,4
+user_105,Azure Resort,Seattle,3
+user_105,Harbor Lodge,Vancouver,2
+user_105,Regent Grand Hotel,Toronto,3
+user_105,Aspen Lodge,Austin,4
+user_105,Azure Lodge,Vancouver,4
+user_105,Cascade Inn,Seattle,2
+user_105,Summit Lodge,Vancouver,5
+user_105,Cascade Resort,Seattle,3
+user_106,Lantern Grand Hotel,Vancouver,4
+user_106,Cascade Resort,Seattle,5
+user_106,Coral Resort,Toronto,3
+user_106,Regent Suites,Vancouver,2
+user_106,Vela Inn,Austin,3
+user_106,Ivy Inn,Chicago,3
+user_106,Cascade Grand Hotel,Austin,4
+user_106,Lantern Inn,Austin,4
+user_106,Coral Suites,Toronto,3
+user_106,Coral Inn,Chicago,3
+user_106,Azure Resort,Seattle,3
+user_106,Aspen Lodge,Austin,3
+user_106,Cascade Inn,Seattle,3
+user_106,Vela Grand Hotel,Austin,5
+user_106,Cascade Suites,Toronto,3
+user_106,Meridian Suites,Chicago,4
+user_106,Monarch Inn,Toronto,4
+user_106,Summit Grand Hotel,New York,2
+user_106,Azure Suites,Toronto,3
+user_106,Regent Grand Hotel,Toronto,4
+user_107,Ivy Lodge,Seattle,4
+user_107,Summit Suites,New York,4
+user_107,Lantern Inn,Austin,4
+user_107,Regent Inn,New York,3
+user_107,Azure Suites,Toronto,4
+user_107,Meridian Grand Hotel,Toronto,5
+user_107,Azure Resort,Seattle,4
+user_107,Regent Resort,Toronto,4
+user_107,Monarch Suites,New York,4
+user_107,Harbor Resort,Toronto,4
+user_107,Vela Resort,Chicago,4
+user_107,Aspen Grand Hotel,Toronto,4
+user_107,Regent Grand Hotel,Toronto,5
+user_107,Coral Suites,Toronto,4
+user_107,Ivy Inn,Chicago,4
+user_108,Coral Resort,Toronto,2
+user_108,Azure Resort,Seattle,4
+user_108,Summit Grand Hotel,New York,4
+user_108,Meridian Grand Hotel,Toronto,4
+user_108,Cascade Lodge,Vancouver,5
+user_108,Azure Inn,Vancouver,5
+user_108,Lantern Resort,Austin,3
+user_108,Regent Grand Hotel,Toronto,3
+user_108,Summit Lodge,Vancouver,4
+user_108,Summit Suites,New York,3
+user_108,Vela Grand Hotel,Austin,2
+user_108,Ivy Inn,Chicago,5
+user_108,Cascade Resort,Seattle,3
+user_108,Azure Suites,Toronto,3
+user_108,Coral Inn,Chicago,4
+user_108,Cascade Inn,Seattle,5
+user_109,Lantern Inn,Austin,2
+user_109,Coral Suites,Toronto,3
+user_109,Cascade Suites,Toronto,3
+user_109,Coral Inn,Chicago,3
+user_109,Summit Resort,New York,2
+user_109,Monarch Grand Hotel,Toronto,1
+user_109,Coral Resort,Toronto,1
+user_109,Summit Grand Hotel,New York,4
+user_109,Regent Grand Hotel,Toronto,1
+user_109,Ivy Lodge,Seattle,1
+user_109,Lantern Suites,New York,3
+user_109,Lantern Resort,Austin,3
+user_110,Cascade Lodge,Vancouver,4
+user_110,Lantern Resort,Austin,3
+user_110,Ivy Resort,New York,4
+user_110,Ivy Lodge,Seattle,2
+user_110,Lantern Suites,New York,3
+user_110,Summit Grand Hotel,New York,4
+user_110,Regent Resort,Toronto,2
+user_110,Monarch Inn,Toronto,5
+user_110,Aspen Lodge,Austin,2
+user_110,Summit Lodge,Vancouver,4
+user_110,Coral Inn,Chicago,3
+user_111,Harbor Grand Hotel,Austin,3
+user_111,Monarch Inn,Toronto,4
+user_111,Aspen Inn,New York,3
+user_111,Regent Lodge,New York,4
+user_111,Cascade Lodge,Vancouver,5
+user_111,Summit Grand Hotel,New York,4
+user_111,Vela Suites,Toronto,5
+user_111,Regent Grand Hotel,Toronto,3
+user_111,Lantern Inn,Austin,4
+user_111,Ivy Lodge,Seattle,4
+user_111,Aspen Resort,New York,4
+user_111,Azure Resort,Seattle,5
+user_111,Monarch Grand Hotel,Toronto,4
+user_111,Coral Inn,Chicago,4
+user_111,Azure Grand Hotel,Seattle,4
+user_112,Monarch Inn,Toronto,1
+user_112,Lantern Grand Hotel,Vancouver,1
+user_112,Cascade Lodge,Vancouver,1
+user_112,Meridian Suites,Chicago,2
+user_112,Regent Suites,Vancouver,1
+user_112,Ivy Resort,New York,1
+user_112,Lantern Inn,Austin,1
+user_112,Harbor Suites,Austin,1
+user_112,Azure Lodge,Vancouver,2
+user_112,Azure Suites,Toronto,1
+user_113,Meridian Grand Hotel,Toronto,3
+user_113,Monarch Inn,Toronto,4
+user_113,Vela Suites,Toronto,5
+user_113,Lantern Grand Hotel,Vancouver,5
+user_113,Azure Resort,Seattle,5
+user_113,Summit Inn,Toronto,5
+user_113,Aspen Lodge,Austin,5
+user_113,Cascade Suites,Toronto,4
+user_113,Coral Inn,Chicago,4
+user_113,Cascade Grand Hotel,Austin,3
+user_113,Vela Grand Hotel,Austin,4
+user_113,Aspen Suites,New York,5
+user_113,Ivy Inn,Chicago,4
+user_113,Monarch Suites,New York,4
+user_113,Aspen Resort,New York,4
+user_113,Harbor Inn,Seattle,4
+user_113,Azure Grand Hotel,Seattle,3
+user_113,Vela Lodge,New York,4
+user_113,Ivy Suites,Vancouver,4
+user_114,Coral Grand Hotel,New York,1
+user_114,Vela Inn,Austin,2
+user_114,Ivy Lodge,Seattle,1
+user_114,Aspen Lodge,Austin,2
+user_114,Vela Grand Hotel,Austin,2
+user_114,Summit Grand Hotel,New York,2
+user_114,Lantern Resort,Austin,2
+user_114,Azure Suites,Toronto,1
+user_114,Meridian Suites,Chicago,1
+user_114,Summit Suites,New York,1
+user_114,Lantern Grand Hotel,Vancouver,2
+user_114,Coral Lodge,Chicago,3
+user_115,Cascade Resort,Seattle,4
+user_115,Meridian Suites,Chicago,4
+user_115,Vela Grand Hotel,Austin,4
+user_115,Monarch Grand Hotel,Toronto,2
+user_115,Coral Inn,Chicago,1
+user_115,Ivy Inn,Chicago,2
+user_115,Azure Lodge,Vancouver,2
+user_115,Monarch Lodge,New York,3
+user_116,Monarch Inn,Toronto,5
+user_116,Cascade Suites,Toronto,4
+user_116,Summit Lodge,Vancouver,4
+user_116,Azure Inn,Vancouver,4
+user_116,Lantern Resort,Austin,4
+user_116,Ivy Inn,Chicago,4
+user_116,Regent Resort,Toronto,4
+user_116,Vela Resort,Chicago,4
+user_116,Vela Grand Hotel,Austin,3
+user_116,Lantern Grand Hotel,Vancouver,4
+user_116,Harbor Lodge,Vancouver,5
+user_116,Ivy Resort,New York,4
+user_116,Cascade Lodge,Vancouver,4
+user_116,Ivy Suites,Vancouver,3
+user_116,Meridian Resort,New York,4
+user_116,Regent Grand Hotel,Toronto,3
+user_116,Harbor Resort,Toronto,5
+user_116,Lantern Lodge,Chicago,3
+user_116,Coral Suites,Toronto,4
+user_116,Azure Suites,Toronto,4
+user_117,Regent Grand Hotel,Toronto,4
+user_117,Monarch Lodge,New York,5
+user_117,Coral Suites,Toronto,4
+user_117,Ivy Lodge,Seattle,5
+user_117,Harbor Lodge,Vancouver,5
+user_117,Summit Resort,New York,5
+user_117,Cascade Inn,Seattle,5
+user_117,Aspen Inn,New York,5
+user_117,Regent Inn,New York,5
+user_117,Monarch Inn,Toronto,5
+user_117,Summit Suites,New York,5
+user_117,Coral Grand Hotel,New York,5
+user_118,Lantern Grand Hotel,Vancouver,4
+user_118,Regent Inn,New York,3
+user_118,Regent Suites,Vancouver,4
+user_118,Coral Lodge,Chicago,4
+user_118,Summit Suites,New York,4
+user_118,Monarch Inn,Toronto,3
+user_118,Vela Lodge,New York,4
+user_118,Vela Resort,Chicago,3
+user_118,Ivy Lodge,Seattle,3
+user_118,Summit Lodge,Vancouver,2
+user_118,Azure Lodge,Vancouver,3
+user_118,Aspen Inn,New York,2
+user_118,Harbor Lodge,Vancouver,4
+user_119,Coral Inn,Chicago,5
+user_119,Coral Grand Hotel,New York,4
+user_119,Aspen Lodge,Austin,5
+user_119,Aspen Inn,New York,5
+user_119,Ivy Inn,Chicago,4
+user_119,Vela Suites,Toronto,5
+user_120,Aspen Inn,New York,2
+user_120,Azure Inn,Vancouver,3
+user_120,Summit Lodge,Vancouver,1
+user_120,Vela Lodge,New York,3
+user_120,Meridian Suites,Chicago,2
+user_120,Coral Lodge,Chicago,3
+user_120,Harbor Grand Hotel,Austin,2
+user_120,Aspen Lodge,Austin,2
+user_120,Lantern Resort,Austin,3
+user_120,Harbor Suites,Austin,1
+user_120,Lantern Suites,New York,1
+user_120,Regent Lodge,New York,3
+user_120,Azure Resort,Seattle,3
+user_121,Meridian Suites,Chicago,3
+user_121,Vela Grand Hotel,Austin,3
+user_121,Lantern Resort,Austin,3
+user_121,Regent Grand Hotel,Toronto,2
+user_121,Azure Inn,Vancouver,3
+user_121,Regent Suites,Vancouver,3
+user_121,Ivy Inn,Chicago,2
+user_122,Lantern Resort,Austin,4
+user_122,Ivy Lodge,Seattle,5
+user_122,Azure Suites,Toronto,5
+user_122,Harbor Resort,Toronto,3
+user_122,Coral Suites,Toronto,4
+user_122,Coral Inn,Chicago,5
+user_122,Lantern Grand Hotel,Vancouver,4
+user_122,Aspen Lodge,Austin,4
+user_122,Summit Suites,New York,5
+user_122,Ivy Resort,New York,5
+user_122,Regent Resort,Toronto,5
+user_122,Aspen Grand Hotel,Toronto,5
+user_123,Cascade Suites,Toronto,4
+user_123,Meridian Resort,New York,4
+user_123,Coral Grand Hotel,New York,2
+user_123,Monarch Grand Hotel,Toronto,4
+user_123,Azure Suites,Toronto,4
+user_123,Lantern Resort,Austin,2
+user_123,Vela Grand Hotel,Austin,3
+user_123,Azure Lodge,Vancouver,3
+user_123,Aspen Grand Hotel,Toronto,5
+user_123,Coral Resort,Toronto,1
+user_123,Summit Inn,Toronto,2
+user_123,Cascade Inn,Seattle,5
+user_123,Summit Grand Hotel,New York,4
+user_123,Harbor Grand Hotel,Austin,2
+user_123,Aspen Resort,New York,5
+user_123,Lantern Grand Hotel,Vancouver,3
+user_123,Meridian Grand Hotel,Toronto,5
+user_123,Ivy Suites,Vancouver,3
+user_123,Lantern Inn,Austin,4
+user_124,Azure Suites,Toronto,4
+user_124,Lantern Inn,Austin,3
+user_124,Coral Suites,Toronto,4
+user_124,Meridian Grand Hotel,Toronto,4
+user_124,Cascade Suites,Toronto,3
+user_124,Harbor Lodge,Vancouver,4
+user_124,Cascade Resort,Seattle,2
+user_124,Cascade Inn,Seattle,4
+user_124,Regent Grand Hotel,Toronto,1
+user_125,Lantern Inn,Austin,2
+user_125,Vela Lodge,New York,1
+user_125,Cascade Resort,Seattle,2
+user_125,Meridian Lodge,Chicago,1
+user_125,Summit Suites,New York,1
+user_125,Summit Inn,Toronto,1
+user_125,Harbor Grand Hotel,Austin,1
+user_125,Aspen Grand Hotel,Toronto,2
+user_125,Harbor Suites,Austin,1
+user_125,Aspen Lodge,Austin,2
+user_125,Meridian Grand Hotel,Toronto,1
+user_125,Monarch Lodge,New York,1
+user_125,Cascade Suites,Toronto,1
+user_125,Regent Grand Hotel,Toronto,2
+user_125,Vela Grand Hotel,Austin,2
+user_125,Monarch Resort,Vancouver,1
+user_126,Cascade Resort,Seattle,3
+user_126,Lantern Lodge,Chicago,2
+user_126,Vela Inn,Austin,3
+user_126,Regent Grand Hotel,Toronto,3
+user_126,Azure Resort,Seattle,3
+user_126,Monarch Lodge,New York,3
+user_126,Lantern Inn,Austin,2
+user_126,Azure Inn,Vancouver,2
+user_126,Meridian Inn,New York,3
+user_126,Aspen Lodge,Austin,3
+user_126,Regent Resort,Toronto,3
+user_126,Vela Resort,Chicago,3
+user_126,Summit Inn,Toronto,3
+user_126,Meridian Grand Hotel,Toronto,1
+user_126,Coral Suites,Toronto,3
+user_126,Meridian Suites,Chicago,3
+user_126,Harbor Grand Hotel,Austin,2
+user_126,Summit Suites,New York,2
+user_126,Ivy Lodge,Seattle,3
+user_127,Lantern Inn,Austin,3
+user_127,Monarch Grand Hotel,Toronto,3
+user_127,Harbor Lodge,Vancouver,1
+user_127,Meridian Suites,Chicago,4
+user_127,Monarch Resort,Vancouver,4
+user_127,Regent Lodge,New York,4
+user_127,Summit Lodge,Vancouver,4
+user_127,Cascade Resort,Seattle,3
+user_128,Meridian Suites,Chicago,4
+user_128,Summit Lodge,Vancouver,4
+user_128,Ivy Lodge,Seattle,3
+user_128,Lantern Lodge,Chicago,3
+user_128,Cascade Resort,Seattle,3
+user_128,Meridian Grand Hotel,Toronto,3
+user_128,Monarch Lodge,New York,3
+user_128,Lantern Resort,Austin,4
+user_128,Monarch Resort,Vancouver,3
+user_128,Vela Grand Hotel,Austin,3
+user_128,Azure Suites,Toronto,3
+user_128,Summit Grand Hotel,New York,4
+user_128,Aspen Grand Hotel,Toronto,4
+user_128,Regent Inn,New York,3
+user_128,Aspen Lodge,Austin,3
+user_129,Ivy Inn,Chicago,2
+user_129,Aspen Lodge,Austin,3
+user_129,Coral Suites,Toronto,3
+user_129,Ivy Suites,Vancouver,3
+user_129,Azure Inn,Vancouver,2
+user_129,Meridian Resort,New York,3
+user_129,Meridian Grand Hotel,Toronto,2
+user_129,Vela Lodge,New York,3
+user_129,Regent Suites,Vancouver,3
+user_129,Regent Inn,New York,2
+user_129,Lantern Inn,Austin,3
+user_129,Summit Suites,New York,3
+user_129,Cascade Grand Hotel,Austin,5
+user_129,Monarch Resort,Vancouver,4
+user_129,Lantern Grand Hotel,Vancouver,3
+user_129,Harbor Grand Hotel,Austin,3
+user_130,Harbor Lodge,Vancouver,5
+user_130,Regent Resort,Toronto,3
+user_130,Azure Inn,Vancouver,4
+user_130,Summit Inn,Toronto,5
+user_130,Meridian Suites,Chicago,4
+user_130,Ivy Inn,Chicago,5
+user_130,Coral Suites,Toronto,5
+user_130,Azure Grand Hotel,Seattle,5
+user_130,Azure Lodge,Vancouver,4
+user_130,Regent Grand Hotel,Toronto,3
+user_130,Meridian Grand Hotel,Toronto,4
+user_130,Coral Grand Hotel,New York,4
+user_130,Coral Resort,Toronto,3
+user_130,Vela Resort,Chicago,4
+user_131,Ivy Lodge,Seattle,5
+user_131,Summit Suites,New York,3
+user_131,Aspen Resort,New York,4
+user_131,Aspen Lodge,Austin,4
+user_131,Meridian Lodge,Chicago,4
+user_131,Azure Resort,Seattle,4
+user_131,Azure Inn,Vancouver,3
+user_131,Summit Resort,New York,4
+user_131,Lantern Lodge,Chicago,4
+user_131,Meridian Resort,New York,4
+user_131,Azure Lodge,Vancouver,4
+user_131,Cascade Suites,Toronto,5
+user_131,Coral Lodge,Chicago,4
+user_131,Lantern Grand Hotel,Vancouver,5
+user_131,Monarch Resort,Vancouver,4
+user_131,Coral Grand Hotel,New York,4
+user_131,Monarch Inn,Toronto,4
+user_131,Summit Grand Hotel,New York,3
+user_131,Coral Suites,Toronto,4
+user_132,Lantern Lodge,Chicago,3
+user_132,Azure Grand Hotel,Seattle,5
+user_132,Coral Suites,Toronto,4
+user_132,Vela Suites,Toronto,3
+user_132,Summit Inn,Toronto,4
+user_132,Regent Grand Hotel,Toronto,4
+user_132,Azure Lodge,Vancouver,4
+user_132,Regent Resort,Toronto,2
+user_132,Meridian Lodge,Chicago,4
+user_132,Lantern Inn,Austin,4
+user_133,Ivy Resort,New York,1
+user_133,Vela Grand Hotel,Austin,3
+user_133,Lantern Suites,New York,2
+user_133,Azure Lodge,Vancouver,3
+user_133,Aspen Lodge,Austin,4
+user_133,Azure Resort,Seattle,3
+user_133,Coral Resort,Toronto,3
+user_133,Ivy Inn,Chicago,2
+user_133,Lantern Grand Hotel,Vancouver,3
+user_133,Coral Suites,Toronto,2
+user_133,Coral Grand Hotel,New York,3
+user_133,Regent Grand Hotel,Toronto,3
+user_133,Vela Suites,Toronto,3
+user_133,Monarch Inn,Toronto,2
+user_133,Meridian Suites,Chicago,4
+user_133,Regent Lodge,New York,4
+user_134,Coral Suites,Toronto,4
+user_134,Azure Inn,Vancouver,5
+user_134,Harbor Lodge,Vancouver,5
+user_134,Aspen Suites,New York,5
+user_134,Harbor Grand Hotel,Austin,3
+user_134,Cascade Suites,Toronto,3
+user_134,Aspen Inn,New York,3
+user_134,Ivy Suites,Vancouver,3
+user_134,Summit Resort,New York,4
+user_134,Meridian Inn,New York,4
+user_134,Summit Grand Hotel,New York,4
+user_134,Cascade Resort,Seattle,5
+user_134,Regent Grand Hotel,Toronto,4
+user_134,Vela Lodge,New York,5
+user_134,Coral Lodge,Chicago,5
+user_134,Regent Resort,Toronto,2
+user_134,Lantern Grand Hotel,Vancouver,4
+user_135,Coral Inn,Chicago,5
+user_135,Ivy Lodge,Seattle,5
+user_135,Lantern Grand Hotel,Vancouver,5
+user_135,Aspen Grand Hotel,Toronto,5
+user_135,Azure Resort,Seattle,4
+user_135,Coral Grand Hotel,New York,5
+user_135,Meridian Grand Hotel,Toronto,5
+user_135,Ivy Suites,Vancouver,5
+user_135,Aspen Inn,New York,5
+user_136,Summit Suites,New York,4
+user_136,Monarch Inn,Toronto,4
+user_136,Cascade Suites,Toronto,5
+user_136,Cascade Lodge,Vancouver,4
+user_136,Aspen Lodge,Austin,4
+user_136,Coral Resort,Toronto,5
+user_136,Harbor Grand Hotel,Austin,5
+user_136,Aspen Suites,New York,5
+user_136,Coral Inn,Chicago,4
+user_137,Lantern Resort,Austin,5
+user_137,Aspen Inn,New York,4
+user_137,Summit Suites,New York,5
+user_137,Lantern Grand Hotel,Vancouver,4
+user_137,Coral Inn,Chicago,5
+user_137,Meridian Inn,New York,3
+user_137,Meridian Suites,Chicago,4
+user_137,Harbor Grand Hotel,Austin,5
+user_137,Coral Lodge,Chicago,4
+user_137,Cascade Resort,Seattle,5
+user_137,Lantern Inn,Austin,5
+user_137,Meridian Grand Hotel,Toronto,5
+user_138,Azure Inn,Vancouver,2
+user_138,Vela Inn,Austin,2
+user_138,Ivy Resort,New York,2
+user_138,Coral Lodge,Chicago,3
+user_138,Summit Grand Hotel,New York,1
+user_138,Lantern Suites,New York,1
+user_138,Meridian Suites,Chicago,3
+user_138,Lantern Inn,Austin,4
+user_138,Ivy Inn,Chicago,3
+user_138,Meridian Lodge,Chicago,3
+user_138,Harbor Lodge,Vancouver,3
+user_138,Azure Grand Hotel,Seattle,4
+user_138,Regent Resort,Toronto,2
+user_138,Monarch Resort,Vancouver,2
+user_138,Monarch Grand Hotel,Toronto,4
+user_138,Meridian Resort,New York,3
+user_138,Regent Inn,New York,3
+user_138,Azure Suites,Toronto,2
+user_138,Azure Resort,Seattle,2
+user_139,Aspen Inn,New York,2
+user_139,Aspen Lodge,Austin,3
+user_139,Aspen Resort,New York,3
+user_139,Aspen Suites,New York,3
+user_139,Cascade Resort,Seattle,5
+user_139,Ivy Grand Hotel,New York,3
+user_139,Cascade Suites,Toronto,4
+user_139,Monarch Lodge,New York,4
+user_139,Meridian Resort,New York,4
+user_139,Coral Suites,Toronto,3
+user_139,Meridian Suites,Chicago,4
+user_139,Lantern Lodge,Chicago,5
+user_139,Coral Lodge,Chicago,3
+user_139,Regent Grand Hotel,Toronto,5
+user_140,Lantern Resort,Austin,3
+user_140,Cascade Lodge,Vancouver,4
+user_140,Azure Inn,Vancouver,3
+user_140,Harbor Resort,Toronto,3
+user_140,Cascade Resort,Seattle,2
+user_140,Regent Grand Hotel,Toronto,2
+user_140,Coral Resort,Toronto,2
+user_140,Ivy Inn,Chicago,4
+user_140,Monarch Lodge,New York,3
+user_140,Aspen Lodge,Austin,2
+user_140,Coral Grand Hotel,New York,1
+user_140,Vela Grand Hotel,Austin,3
+user_141,Summit Suites,New York,5
+user_141,Vela Inn,Austin,5
+user_141,Summit Lodge,Vancouver,5
+user_141,Vela Resort,Chicago,5
+user_141,Summit Grand Hotel,New York,5
+user_141,Vela Suites,Toronto,5
+user_141,Monarch Grand Hotel,Toronto,5
+user_141,Monarch Lodge,New York,5
+user_141,Meridian Resort,New York,5
+user_141,Azure Grand Hotel,Seattle,5
+user_141,Coral Lodge,Chicago,5
+user_141,Ivy Resort,New York,5
+user_141,Cascade Lodge,Vancouver,5
+user_142,Vela Inn,Austin,5
+user_142,Coral Grand Hotel,New York,5
+user_142,Ivy Inn,Chicago,5
+user_142,Cascade Inn,Seattle,4
+user_142,Cascade Suites,Toronto,5
+user_142,Lantern Lodge,Chicago,5
+user_142,Lantern Resort,Austin,5
+user_142,Regent Suites,Vancouver,4
+user_142,Harbor Lodge,Vancouver,5
+user_142,Aspen Grand Hotel,Toronto,4
+user_142,Ivy Grand Hotel,New York,5
+user_142,Meridian Suites,Chicago,4
+user_142,Ivy Suites,Vancouver,4
+user_142,Meridian Resort,New York,5
+user_142,Monarch Inn,Toronto,5
+user_142,Lantern Grand Hotel,Vancouver,4
+user_142,Lantern Inn,Austin,4
+user_142,Coral Inn,Chicago,5
+user_143,Regent Grand Hotel,Toronto,5
+user_143,Cascade Suites,Toronto,5
+user_143,Lantern Suites,New York,5
+user_143,Meridian Suites,Chicago,4
+user_143,Lantern Inn,Austin,5
+user_143,Ivy Inn,Chicago,3
+user_143,Azure Inn,Vancouver,4
+user_143,Vela Grand Hotel,Austin,5
+user_144,Summit Inn,Toronto,5
+user_144,Meridian Resort,New York,4
+user_144,Vela Resort,Chicago,5
+user_144,Vela Grand Hotel,Austin,3
+user_144,Summit Grand Hotel,New York,5
+user_144,Azure Inn,Vancouver,5
+user_144,Coral Inn,Chicago,4
+user_144,Regent Lodge,New York,4
+user_145,Coral Grand Hotel,New York,1
+user_145,Lantern Suites,New York,1
+user_145,Regent Grand Hotel,Toronto,5
+user_145,Coral Inn,Chicago,2
+user_145,Azure Resort,Seattle,1
+user_145,Azure Inn,Vancouver,2
+user_145,Azure Suites,Toronto,1
+user_145,Monarch Lodge,New York,3
+user_145,Lantern Grand Hotel,Vancouver,3
+user_145,Harbor Inn,Seattle,4
+user_145,Regent Suites,Vancouver,1
+user_145,Coral Suites,Toronto,2
+user_146,Summit Grand Hotel,New York,4
+user_146,Harbor Grand Hotel,Austin,5
+user_146,Aspen Lodge,Austin,4
+user_146,Meridian Resort,New York,5
+user_146,Cascade Suites,Toronto,5
+user_146,Harbor Lodge,Vancouver,4
+user_146,Vela Inn,Austin,4
+user_146,Vela Suites,Toronto,5
+user_146,Azure Suites,Toronto,5
+user_146,Cascade Inn,Seattle,5
+user_147,Summit Suites,New York,4
+user_147,Coral Inn,Chicago,4
+user_147,Lantern Resort,Austin,3
+user_147,Aspen Grand Hotel,Toronto,3
+user_147,Regent Grand Hotel,Toronto,3
+user_147,Aspen Inn,New York,3
+user_147,Cascade Lodge,Vancouver,4
+user_148,Ivy Suites,Vancouver,2
+user_148,Meridian Grand Hotel,Toronto,5
+user_148,Monarch Lodge,New York,2
+user_148,Harbor Lodge,Vancouver,5
+user_148,Aspen Suites,New York,3
+user_148,Azure Lodge,Vancouver,3
+user_148,Monarch Resort,Vancouver,4
+user_148,Cascade Resort,Seattle,2
+user_148,Aspen Grand Hotel,Toronto,5
+user_149,Aspen Lodge,Austin,3
+user_149,Harbor Grand Hotel,Austin,4
+user_149,Meridian Grand Hotel,Toronto,2
+user_149,Meridian Resort,New York,3
+user_149,Regent Resort,Toronto,1
+user_149,Meridian Suites,Chicago,4
+user_149,Meridian Lodge,Chicago,2
+user_149,Coral Lodge,Chicago,2
+user_149,Summit Inn,Toronto,2
+user_149,Aspen Resort,New York,2
+user_149,Summit Grand Hotel,New York,1
+user_149,Monarch Lodge,New York,5
+user_149,Cascade Resort,Seattle,5
+user_149,Vela Inn,Austin,3
+user_149,Monarch Inn,Toronto,2
+user_149,Coral Suites,Toronto,1
+user_149,Azure Inn,Vancouver,2
+user_149,Azure Resort,Seattle,2
+user_149,Aspen Inn,New York,2
+user_149,Regent Grand Hotel,Toronto,5
+user_150,Aspen Resort,New York,3
+user_150,Vela Lodge,New York,5
+user_150,Coral Grand Hotel,New York,5
+user_150,Meridian Resort,New York,4
+user_150,Lantern Resort,Austin,5
+user_150,Azure Lodge,Vancouver,4
+user_150,Lantern Grand Hotel,Vancouver,4
+user_150,Ivy Lodge,Seattle,4
+user_150,Harbor Grand Hotel,Austin,4
+user_150,Cascade Resort,Seattle,5
+user_150,Summit Grand Hotel,New York,3
+user_150,Azure Inn,Vancouver,3
+user_150,Regent Suites,Vancouver,4
+user_150,Summit Suites,New York,4
+user_150,Azure Resort,Seattle,3
+user_150,Regent Grand Hotel,Toronto,5
+user_150,Meridian Suites,Chicago,4
+user_151,Vela Suites,Toronto,5
+user_151,Lantern Inn,Austin,5
+user_151,Lantern Resort,Austin,4
+user_151,Coral Resort,Toronto,5
+user_151,Azure Suites,Toronto,4
+user_151,Meridian Inn,New York,3
+user_151,Monarch Lodge,New York,4
+user_151,Aspen Lodge,Austin,4
+user_151,Monarch Suites,New York,4
+user_151,Summit Suites,New York,4
+user_151,Meridian Resort,New York,4
+user_151,Vela Resort,Chicago,4
+user_151,Summit Inn,Toronto,3
+user_151,Cascade Inn,Seattle,4
+user_152,Harbor Resort,Toronto,3
+user_152,Aspen Lodge,Austin,3
+user_152,Azure Lodge,Vancouver,3
+user_152,Cascade Suites,Toronto,3
+user_152,Aspen Suites,New York,3
+user_152,Summit Resort,New York,2
+user_152,Harbor Grand Hotel,Austin,3
+user_152,Cascade Lodge,Vancouver,4
+user_152,Monarch Grand Hotel,Toronto,3
+user_152,Lantern Resort,Austin,4
+user_152,Harbor Lodge,Vancouver,4
+user_152,Ivy Inn,Chicago,4
+user_152,Meridian Suites,Chicago,4
+user_152,Ivy Suites,Vancouver,3
+user_152,Meridian Inn,New York,4
+user_152,Aspen Inn,New York,4
+user_152,Coral Grand Hotel,New York,3
+user_152,Summit Suites,New York,4
+user_152,Monarch Inn,Toronto,3
+user_152,Cascade Inn,Seattle,3
+user_153,Coral Inn,Chicago,5
+user_153,Ivy Grand Hotel,New York,5
+user_153,Lantern Resort,Austin,5
+user_153,Azure Suites,Toronto,5
+user_153,Monarch Suites,New York,4
+user_153,Coral Lodge,Chicago,3
+user_153,Cascade Inn,Seattle,4
+user_153,Azure Resort,Seattle,4
+user_153,Monarch Grand Hotel,Toronto,3
+user_153,Aspen Resort,New York,4
+user_153,Monarch Resort,Vancouver,4
+user_153,Vela Suites,Toronto,5
+user_153,Cascade Resort,Seattle,3
+user_153,Ivy Inn,Chicago,4
+user_153,Monarch Lodge,New York,3
+user_153,Meridian Resort,New York,4
+user_154,Vela Grand Hotel,Austin,5
+user_154,Lantern Inn,Austin,5
+user_154,Summit Inn,Toronto,5
+user_154,Regent Grand Hotel,Toronto,5
+user_154,Regent Inn,New York,4
+user_154,Lantern Suites,New York,4
+user_154,Lantern Grand Hotel,Vancouver,4
+user_154,Meridian Resort,New York,5
+user_154,Vela Suites,Toronto,5
+user_154,Coral Resort,Toronto,5
+user_154,Summit Grand Hotel,New York,5
+user_154,Cascade Grand Hotel,Austin,5
+user_155,Azure Suites,Toronto,5
+user_155,Monarch Resort,Vancouver,5
+user_155,Azure Grand Hotel,Seattle,5
+user_155,Coral Resort,Toronto,3
+user_155,Lantern Grand Hotel,Vancouver,3
+user_155,Aspen Grand Hotel,Toronto,5
+user_156,Azure Inn,Vancouver,5
+user_156,Aspen Lodge,Austin,3
+user_156,Cascade Grand Hotel,Austin,2
+user_156,Monarch Lodge,New York,4
+user_156,Regent Lodge,New York,3
+user_156,Harbor Inn,Seattle,5
+user_156,Meridian Resort,New York,5
+user_156,Azure Resort,Seattle,3
+user_156,Coral Grand Hotel,New York,2
+user_156,Aspen Inn,New York,1
+user_156,Summit Suites,New York,3
+user_156,Azure Lodge,Vancouver,4
+user_156,Vela Lodge,New York,5
+user_156,Ivy Lodge,Seattle,3
+user_156,Lantern Grand Hotel,Vancouver,5
+user_157,Aspen Grand Hotel,Toronto,4
+user_157,Coral Suites,Toronto,5
+user_157,Harbor Grand Hotel,Austin,5
+user_157,Azure Grand Hotel,Seattle,4
+user_157,Aspen Lodge,Austin,5
+user_157,Meridian Suites,Chicago,5
+user_157,Lantern Resort,Austin,4
+user_157,Lantern Lodge,Chicago,4
+user_157,Coral Grand Hotel,New York,5
+user_157,Cascade Inn,Seattle,5
+user_157,Cascade Grand Hotel,Austin,4
+user_157,Monarch Resort,Vancouver,4
+user_157,Lantern Grand Hotel,Vancouver,5
+user_157,Regent Resort,Toronto,4
+user_157,Meridian Lodge,Chicago,4
+user_157,Cascade Lodge,Vancouver,5
+user_157,Monarch Grand Hotel,Toronto,5
+user_157,Monarch Inn,Toronto,5
+user_157,Harbor Resort,Toronto,5
+user_157,Cascade Resort,Seattle,5
+user_158,Ivy Inn,Chicago,4
+user_158,Azure Lodge,Vancouver,5
+user_158,Coral Grand Hotel,New York,5
+user_158,Azure Inn,Vancouver,5
+user_158,Meridian Suites,Chicago,4
+user_158,Regent Grand Hotel,Toronto,5
+user_158,Harbor Resort,Toronto,5
+user_158,Coral Lodge,Chicago,4
+user_159,Harbor Inn,Seattle,3
+user_159,Monarch Lodge,New York,4
+user_159,Azure Resort,Seattle,3
+user_159,Meridian Resort,New York,4
+user_159,Vela Grand Hotel,Austin,3
+user_159,Coral Inn,Chicago,3
+user_159,Cascade Lodge,Vancouver,1
+user_159,Summit Grand Hotel,New York,3
+user_159,Coral Suites,Toronto,1
+user_159,Aspen Grand Hotel,Toronto,2
+user_159,Monarch Inn,Toronto,1
+user_159,Monarch Resort,Vancouver,3
+user_159,Meridian Lodge,Chicago,1
+user_159,Meridian Grand Hotel,Toronto,1
+user_159,Cascade Inn,Seattle,2
+user_159,Azure Inn,Vancouver,2
+user_159,Vela Suites,Toronto,4
+user_159,Summit Inn,Toronto,3
+user_159,Regent Grand Hotel,Toronto,4
+user_159,Coral Grand Hotel,New York,2
+user_160,Vela Suites,Toronto,2
+user_160,Azure Lodge,Vancouver,2
+user_160,Azure Resort,Seattle,2
+user_160,Summit Resort,New York,2
+user_160,Cascade Lodge,Vancouver,3
+user_160,Coral Inn,Chicago,2
+user_160,Harbor Grand Hotel,Austin,2
+user_160,Harbor Inn,Seattle,3
+user_160,Monarch Resort,Vancouver,2
+user_160,Meridian Resort,New York,2
+user_160,Lantern Resort,Austin,3
+user_160,Cascade Grand Hotel,Austin,4
+user_160,Azure Inn,Vancouver,3
+user_160,Meridian Suites,Chicago,3
+user_160,Regent Inn,New York,2
+user_160,Ivy Resort,New York,2
+user_161,Azure Inn,Vancouver,3
+user_161,Aspen Resort,New York,3
+user_161,Regent Grand Hotel,Toronto,2
+user_161,Aspen Lodge,Austin,3
+user_161,Regent Resort,Toronto,5
+user_161,Regent Suites,Vancouver,3
+user_161,Azure Resort,Seattle,3
+user_161,Coral Suites,Toronto,3
+user_161,Monarch Resort,Vancouver,4
+user_161,Lantern Inn,Austin,2
+user_161,Ivy Lodge,Seattle,3
+user_161,Aspen Grand Hotel,Toronto,3
+user_161,Coral Grand Hotel,New York,3
+user_162,Coral Suites,Toronto,4
+user_162,Meridian Inn,New York,4
+user_162,Azure Resort,Seattle,5
+user_162,Azure Suites,Toronto,4
+user_162,Aspen Suites,New York,5
+user_162,Cascade Grand Hotel,Austin,5
+user_162,Meridian Grand Hotel,Toronto,5
+user_162,Lantern Grand Hotel,Vancouver,4
+user_162,Azure Lodge,Vancouver,4
+user_162,Vela Grand Hotel,Austin,4
+user_162,Lantern Inn,Austin,4
+user_162,Harbor Lodge,Vancouver,5
+user_162,Summit Suites,New York,5
+user_162,Ivy Suites,Vancouver,4
+user_162,Cascade Inn,Seattle,5
+user_162,Ivy Lodge,Seattle,4
+user_162,Meridian Resort,New York,4
+user_162,Monarch Inn,Toronto,4
+user_162,Azure Grand Hotel,Seattle,5
+user_162,Coral Grand Hotel,New York,5
+user_163,Azure Inn,Vancouver,3
+user_163,Coral Lodge,Chicago,4
+user_163,Cascade Suites,Toronto,4
+user_163,Lantern Resort,Austin,4
+user_163,Ivy Inn,Chicago,4
+user_163,Monarch Grand Hotel,Toronto,5
+user_163,Coral Grand Hotel,New York,5
+user_163,Vela Suites,Toronto,4
+user_163,Meridian Resort,New York,4
+user_163,Regent Grand Hotel,Toronto,5
+user_163,Cascade Inn,Seattle,3
+user_164,Monarch Grand Hotel,Toronto,3
+user_164,Ivy Resort,New York,3
+user_164,Cascade Inn,Seattle,2
+user_164,Lantern Inn,Austin,3
+user_164,Meridian Resort,New York,3
+user_164,Azure Resort,Seattle,3
+user_165,Summit Suites,New York,3
+user_165,Regent Lodge,New York,3
+user_165,Ivy Resort,New York,5
+user_165,Meridian Resort,New York,4
+user_165,Vela Suites,Toronto,3
+user_165,Coral Grand Hotel,New York,4
+user_165,Meridian Suites,Chicago,4
+user_166,Meridian Resort,New York,5
+user_166,Monarch Grand Hotel,Toronto,4
+user_166,Harbor Resort,Toronto,5
+user_166,Aspen Lodge,Austin,5
+user_166,Azure Suites,Toronto,5
+user_166,Coral Suites,Toronto,5
+user_166,Azure Resort,Seattle,5
+user_166,Vela Grand Hotel,Austin,4
+user_166,Harbor Lodge,Vancouver,4
+user_166,Azure Inn,Vancouver,5
+user_166,Aspen Grand Hotel,Toronto,5
+user_166,Summit Lodge,Vancouver,4
+user_166,Meridian Suites,Chicago,4
+user_166,Coral Lodge,Chicago,4
+user_166,Cascade Grand Hotel,Austin,4
+user_166,Monarch Suites,New York,4
+user_166,Cascade Suites,Toronto,5
+user_166,Azure Lodge,Vancouver,5
+user_166,Vela Suites,Toronto,5
+user_167,Regent Resort,Toronto,3
+user_167,Monarch Suites,New York,5
+user_167,Lantern Inn,Austin,5
+user_167,Lantern Suites,New York,4
+user_167,Azure Inn,Vancouver,3
+user_167,Aspen Resort,New York,4
+user_167,Monarch Inn,Toronto,5
+user_167,Regent Grand Hotel,Toronto,5
+user_167,Aspen Lodge,Austin,4
+user_167,Azure Lodge,Vancouver,5
+user_167,Meridian Grand Hotel,Toronto,5
+user_167,Coral Lodge,Chicago,5
+user_167,Meridian Suites,Chicago,5
+user_168,Meridian Inn,New York,3
+user_168,Vela Grand Hotel,Austin,4
+user_168,Summit Inn,Toronto,3
+user_168,Lantern Resort,Austin,4
+user_168,Meridian Grand Hotel,Toronto,3
+user_168,Regent Inn,New York,4
+user_168,Summit Suites,New York,3
+user_168,Aspen Resort,New York,3
+user_168,Regent Grand Hotel,Toronto,4
+user_168,Summit Lodge,Vancouver,4
+user_168,Coral Grand Hotel,New York,4
+user_168,Azure Resort,Seattle,4
+user_168,Vela Inn,Austin,4
+user_168,Azure Inn,Vancouver,3
+user_169,Azure Resort,Seattle,1
+user_169,Vela Suites,Toronto,1
+user_169,Vela Inn,Austin,1
+user_169,Coral Suites,Toronto,1
+user_169,Meridian Grand Hotel,Toronto,1
+user_169,Azure Lodge,Vancouver,1
+user_169,Azure Suites,Toronto,1
+user_169,Lantern Resort,Austin,2
+user_169,Ivy Inn,Chicago,2
+user_169,Meridian Resort,New York,1
+user_169,Coral Resort,Toronto,1
+user_169,Meridian Lodge,Chicago,2
+user_169,Lantern Inn,Austin,1
+user_169,Cascade Lodge,Vancouver,1
+user_169,Lantern Lodge,Chicago,1
+user_169,Cascade Suites,Toronto,1
+user_169,Ivy Lodge,Seattle,1
+user_169,Harbor Lodge,Vancouver,2
+user_169,Azure Inn,Vancouver,1
+user_170,Vela Grand Hotel,Austin,3
+user_170,Monarch Inn,Toronto,3
+user_170,Regent Inn,New York,4
+user_170,Coral Grand Hotel,New York,2
+user_170,Lantern Lodge,Chicago,3
+user_170,Regent Grand Hotel,Toronto,2
+user_170,Monarch Lodge,New York,3
+user_170,Summit Suites,New York,2
+user_170,Azure Inn,Vancouver,4
+user_170,Cascade Lodge,Vancouver,3
+user_170,Monarch Grand Hotel,Toronto,3
+user_170,Aspen Resort,New York,4
+user_170,Regent Suites,Vancouver,4
+user_170,Lantern Inn,Austin,3
+user_170,Vela Suites,Toronto,3
+user_170,Aspen Inn,New York,3
+user_170,Ivy Resort,New York,4
+user_171,Aspen Resort,New York,3
+user_171,Harbor Grand Hotel,Austin,1
+user_171,Ivy Inn,Chicago,2
+user_171,Regent Inn,New York,3
+user_171,Cascade Lodge,Vancouver,3
+user_171,Regent Resort,Toronto,2
+user_171,Summit Lodge,Vancouver,1
+user_171,Coral Inn,Chicago,3
+user_171,Cascade Inn,Seattle,2
+user_171,Vela Suites,Toronto,2
+user_171,Lantern Grand Hotel,Vancouver,1
+user_171,Azure Lodge,Vancouver,1
+user_171,Ivy Grand Hotel,New York,2
+user_172,Harbor Grand Hotel,Austin,2
+user_172,Aspen Resort,New York,1
+user_172,Coral Grand Hotel,New York,4
+user_172,Cascade Suites,Toronto,1
+user_172,Coral Suites,Toronto,3
+user_172,Vela Resort,Chicago,2
+user_172,Harbor Lodge,Vancouver,1
+user_173,Summit Suites,New York,2
+user_173,Regent Lodge,New York,3
+user_173,Azure Resort,Seattle,3
+user_173,Monarch Resort,Vancouver,4
+user_173,Ivy Inn,Chicago,5
+user_173,Vela Suites,Toronto,3
+user_173,Monarch Grand Hotel,Toronto,3
+user_173,Harbor Lodge,Vancouver,5
+user_173,Azure Inn,Vancouver,4
+user_173,Lantern Suites,New York,3
+user_173,Regent Grand Hotel,Toronto,2
+user_173,Summit Grand Hotel,New York,4
+user_173,Summit Lodge,Vancouver,4
+user_173,Coral Grand Hotel,New York,3
+user_174,Regent Inn,New York,4
+user_174,Lantern Grand Hotel,Vancouver,5
+user_174,Monarch Resort,Vancouver,5
+user_174,Monarch Inn,Toronto,4
+user_174,Ivy Inn,Chicago,3
+user_174,Summit Inn,Toronto,5
+user_174,Harbor Inn,Seattle,4
+user_174,Cascade Suites,Toronto,4
+user_174,Monarch Grand Hotel,Toronto,5
+user_174,Meridian Suites,Chicago,4
+user_174,Coral Resort,Toronto,4
+user_174,Meridian Resort,New York,4
+user_174,Aspen Lodge,Austin,4
+user_175,Azure Lodge,Vancouver,3
+user_175,Cascade Suites,Toronto,3
+user_175,Azure Resort,Seattle,5
+user_175,Cascade Inn,Seattle,3
+user_175,Monarch Inn,Toronto,4
+user_175,Azure Suites,Toronto,4
+user_175,Aspen Resort,New York,4
+user_175,Coral Grand Hotel,New York,3
+user_175,Monarch Suites,New York,3
+user_176,Vela Inn,Austin,2
+user_176,Ivy Resort,New York,4
+user_176,Cascade Suites,Toronto,4
+user_176,Azure Inn,Vancouver,3
+user_176,Regent Lodge,New York,3
+user_176,Coral Suites,Toronto,4
+user_176,Cascade Inn,Seattle,3
+user_176,Azure Lodge,Vancouver,4
+user_176,Regent Grand Hotel,Toronto,4
+user_176,Regent Resort,Toronto,2
+user_176,Meridian Grand Hotel,Toronto,5
+user_176,Aspen Resort,New York,3
+user_176,Aspen Grand Hotel,Toronto,5
+user_176,Meridian Resort,New York,3
+user_176,Vela Resort,Chicago,4
+user_176,Harbor Grand Hotel,Austin,2
+user_176,Summit Inn,Toronto,4
+user_176,Cascade Resort,Seattle,4
+user_176,Aspen Lodge,Austin,2
+user_176,Regent Inn,New York,4
+user_177,Regent Suites,Vancouver,3
+user_177,Lantern Inn,Austin,4
+user_177,Monarch Inn,Toronto,2
+user_177,Vela Suites,Toronto,3
+user_177,Cascade Inn,Seattle,3
+user_177,Cascade Lodge,Vancouver,3
+user_177,Azure Resort,Seattle,3
+user_177,Coral Lodge,Chicago,4
+user_177,Regent Grand Hotel,Toronto,5
+user_177,Cascade Suites,Toronto,4
+user_177,Regent Inn,New York,4
+user_177,Vela Grand Hotel,Austin,4
+user_177,Aspen Inn,New York,3
+user_177,Monarch Lodge,New York,4
+user_177,Summit Grand Hotel,New York,3
+user_177,Vela Lodge,New York,4
+user_178,Ivy Lodge,Seattle,4
+user_178,Regent Resort,Toronto,5
+user_178,Coral Lodge,Chicago,3
+user_178,Cascade Inn,Seattle,4
+user_178,Azure Inn,Vancouver,5
+user_178,Aspen Suites,New York,4
+user_178,Aspen Lodge,Austin,5
+user_178,Lantern Resort,Austin,5
+user_178,Vela Inn,Austin,5
+user_179,Coral Lodge,Chicago,5
+user_179,Aspen Lodge,Austin,3
+user_179,Coral Resort,Toronto,2
+user_179,Lantern Inn,Austin,2
+user_179,Lantern Resort,Austin,3
+user_179,Regent Grand Hotel,Toronto,1
+user_179,Vela Inn,Austin,3
+user_179,Cascade Resort,Seattle,2
+user_179,Lantern Grand Hotel,Vancouver,2
+user_179,Ivy Grand Hotel,New York,3
+user_179,Ivy Suites,Vancouver,3
+user_179,Azure Suites,Toronto,3
+user_179,Azure Lodge,Vancouver,2
+user_179,Ivy Inn,Chicago,4
+user_179,Azure Inn,Vancouver,4
+user_179,Cascade Suites,Toronto,4
+user_179,Harbor Lodge,Vancouver,4
+user_179,Aspen Grand Hotel,Toronto,4
+user_179,Lantern Lodge,Chicago,4
+user_180,Aspen Inn,New York,4
+user_180,Monarch Inn,Toronto,4
+user_180,Harbor Resort,Toronto,5
+user_180,Vela Suites,Toronto,5
+user_180,Meridian Resort,New York,4
+user_180,Cascade Inn,Seattle,5
+user_180,Coral Suites,Toronto,4
+user_180,Aspen Grand Hotel,Toronto,4
+user_180,Meridian Grand Hotel,Toronto,5
+user_180,Lantern Grand Hotel,Vancouver,3
+user_180,Aspen Resort,New York,4
+user_180,Azure Resort,Seattle,5
+user_180,Harbor Lodge,Vancouver,5
+user_180,Lantern Resort,Austin,4
+user_180,Ivy Inn,Chicago,5
+user_180,Azure Inn,Vancouver,5
+user_180,Regent Grand Hotel,Toronto,2
+user_181,Vela Inn,Austin,3
+user_181,Harbor Grand Hotel,Austin,1
+user_181,Aspen Grand Hotel,Toronto,3
+user_181,Meridian Suites,Chicago,3
+user_181,Coral Suites,Toronto,3
+user_181,Azure Lodge,Vancouver,2
+user_181,Coral Lodge,Chicago,5
+user_181,Coral Grand Hotel,New York,2
+user_181,Cascade Inn,Seattle,3
+user_181,Aspen Inn,New York,1
+user_181,Regent Inn,New York,4
+user_181,Regent Suites,Vancouver,2
+user_182,Coral Inn,Chicago,1
+user_182,Harbor Lodge,Vancouver,2
+user_182,Cascade Inn,Seattle,2
+user_182,Lantern Grand Hotel,Vancouver,2
+user_182,Cascade Resort,Seattle,2
+user_182,Meridian Lodge,Chicago,3
+user_182,Monarch Resort,Vancouver,2
+user_182,Aspen Grand Hotel,Toronto,2
+user_182,Monarch Inn,Toronto,2
+user_182,Ivy Resort,New York,2
+user_182,Lantern Suites,New York,3
+user_182,Lantern Lodge,Chicago,1
+user_182,Summit Resort,New York,2
+user_182,Harbor Inn,Seattle,2
+user_182,Meridian Resort,New York,1
+user_182,Regent Inn,New York,1
+user_183,Cascade Resort,Seattle,5
+user_183,Vela Inn,Austin,4
+user_183,Regent Resort,Toronto,2
+user_183,Coral Inn,Chicago,4
+user_183,Summit Inn,Toronto,4
+user_183,Ivy Resort,New York,3
+user_183,Meridian Grand Hotel,Toronto,5
+user_183,Lantern Resort,Austin,3
+user_183,Azure Resort,Seattle,3
+user_183,Cascade Inn,Seattle,4
+user_183,Meridian Suites,Chicago,5
+user_183,Lantern Suites,New York,3
+user_183,Summit Grand Hotel,New York,3
+user_184,Azure Suites,Toronto,3
+user_184,Coral Inn,Chicago,4
+user_184,Cascade Inn,Seattle,4
+user_184,Coral Suites,Toronto,4
+user_184,Cascade Lodge,Vancouver,5
+user_184,Summit Grand Hotel,New York,3
+user_184,Meridian Grand Hotel,Toronto,5
+user_184,Coral Resort,Toronto,3
+user_184,Cascade Suites,Toronto,5
+user_184,Vela Suites,Toronto,3
+user_184,Monarch Grand Hotel,Toronto,5
+user_184,Meridian Suites,Chicago,4
+user_184,Harbor Resort,Toronto,5
+user_184,Coral Grand Hotel,New York,3
+user_184,Cascade Grand Hotel,Austin,4
+user_185,Harbor Suites,Austin,1
+user_185,Lantern Grand Hotel,Vancouver,1
+user_185,Regent Lodge,New York,2
+user_185,Harbor Grand Hotel,Austin,1
+user_185,Summit Suites,New York,1
+user_185,Vela Inn,Austin,1
+user_185,Lantern Lodge,Chicago,2
+user_185,Ivy Suites,Vancouver,3
+user_185,Lantern Suites,New York,1
+user_185,Meridian Suites,Chicago,2
+user_185,Regent Resort,Toronto,1
+user_185,Ivy Lodge,Seattle,1
+user_185,Azure Grand Hotel,Seattle,4
+user_185,Cascade Resort,Seattle,1
+user_185,Meridian Lodge,Chicago,4
+user_185,Lantern Resort,Austin,1
+user_185,Coral Lodge,Chicago,3
+user_185,Meridian Resort,New York,1
+user_185,Lantern Inn,Austin,1
+user_185,Summit Inn,Toronto,3
+user_186,Ivy Grand Hotel,New York,3
+user_186,Azure Resort,Seattle,4
+user_186,Azure Suites,Toronto,3
+user_186,Azure Grand Hotel,Seattle,3
+user_186,Vela Inn,Austin,3
+user_186,Summit Lodge,Vancouver,4
+user_186,Aspen Resort,New York,2
+user_186,Ivy Lodge,Seattle,4
+user_186,Vela Grand Hotel,Austin,3
+user_186,Meridian Suites,Chicago,3
+user_186,Cascade Resort,Seattle,3
+user_187,Monarch Lodge,New York,3
+user_187,Azure Lodge,Vancouver,3
+user_187,Cascade Inn,Seattle,2
+user_187,Cascade Suites,Toronto,3
+user_187,Aspen Lodge,Austin,2
+user_187,Ivy Lodge,Seattle,2
+user_187,Meridian Suites,Chicago,3
+user_187,Monarch Inn,Toronto,4
+user_188,Ivy Lodge,Seattle,3
+user_188,Monarch Inn,Toronto,3
+user_188,Azure Resort,Seattle,4
+user_188,Summit Lodge,Vancouver,4
+user_188,Regent Grand Hotel,Toronto,2
+user_188,Azure Grand Hotel,Seattle,4
+user_188,Regent Lodge,New York,5
+user_188,Cascade Suites,Toronto,4
+user_188,Meridian Suites,Chicago,3
+user_189,Meridian Grand Hotel,Toronto,2
+user_189,Meridian Inn,New York,4
+user_189,Azure Suites,Toronto,4
+user_189,Summit Inn,Toronto,4
+user_189,Aspen Grand Hotel,Toronto,3
+user_189,Lantern Inn,Austin,3
+user_189,Azure Inn,Vancouver,3
+user_189,Harbor Grand Hotel,Austin,3
+user_189,Summit Grand Hotel,New York,3
+user_189,Lantern Grand Hotel,Vancouver,4
+user_189,Lantern Resort,Austin,4
+user_189,Azure Resort,Seattle,4
+user_189,Monarch Lodge,New York,3
+user_189,Azure Lodge,Vancouver,4
+user_190,Aspen Inn,New York,3
+user_190,Azure Grand Hotel,Seattle,4
+user_190,Coral Inn,Chicago,3
+user_190,Cascade Inn,Seattle,3
+user_190,Meridian Resort,New York,4
+user_190,Harbor Lodge,Vancouver,4
+user_190,Lantern Inn,Austin,5
+user_190,Cascade Resort,Seattle,5
+user_190,Aspen Resort,New York,3
+user_190,Harbor Inn,Seattle,3
+user_190,Meridian Grand Hotel,Toronto,4
+user_190,Coral Resort,Toronto,5
+user_191,Ivy Inn,Chicago,5
+user_191,Aspen Lodge,Austin,5
+user_191,Lantern Inn,Austin,5
+user_191,Ivy Grand Hotel,New York,4
+user_191,Summit Inn,Toronto,4
+user_191,Coral Resort,Toronto,5
+user_191,Regent Inn,New York,5
+user_191,Cascade Resort,Seattle,5
+user_191,Regent Resort,Toronto,4
+user_191,Aspen Inn,New York,5
+user_191,Lantern Lodge,Chicago,5
+user_191,Coral Grand Hotel,New York,5
+user_191,Cascade Suites,Toronto,5
+user_191,Meridian Suites,Chicago,5
+user_191,Vela Grand Hotel,Austin,5
+user_191,Harbor Grand Hotel,Austin,5
+user_191,Meridian Resort,New York,5
+user_191,Coral Suites,Toronto,5
+user_191,Regent Lodge,New York,4
+user_191,Azure Resort,Seattle,4
+user_192,Lantern Inn,Austin,3
+user_192,Regent Suites,Vancouver,3
+user_192,Meridian Resort,New York,2
+user_192,Regent Resort,Toronto,3
+user_192,Lantern Suites,New York,2
+user_192,Cascade Inn,Seattle,3
+user_193,Azure Lodge,Vancouver,2
+user_193,Vela Resort,Chicago,3
+user_193,Lantern Resort,Austin,2
+user_193,Coral Suites,Toronto,3
+user_193,Meridian Suites,Chicago,2
+user_193,Aspen Resort,New York,3
+user_194,Summit Lodge,Vancouver,4
+user_194,Ivy Resort,New York,4
+user_194,Azure Resort,Seattle,5
+user_194,Regent Inn,New York,3
+user_194,Vela Suites,Toronto,4
+user_194,Ivy Inn,Chicago,4
+user_194,Harbor Inn,Seattle,4
+user_194,Regent Lodge,New York,4
+user_194,Meridian Resort,New York,3
+user_194,Coral Suites,Toronto,4
+user_195,Azure Lodge,Vancouver,4
+user_195,Vela Grand Hotel,Austin,5
+user_195,Lantern Inn,Austin,4
+user_195,Cascade Inn,Seattle,4
+user_195,Ivy Suites,Vancouver,4
+user_195,Coral Grand Hotel,New York,5
+user_196,Lantern Grand Hotel,Vancouver,3
+user_196,Summit Grand Hotel,New York,2
+user_196,Azure Suites,Toronto,2
+user_196,Meridian Suites,Chicago,3
+user_196,Lantern Inn,Austin,3
+user_196,Harbor Grand Hotel,Austin,2
+user_196,Meridian Inn,New York,4
+user_196,Ivy Inn,Chicago,3
+user_196,Meridian Resort,New York,3
+user_196,Monarch Grand Hotel,Toronto,4
+user_196,Meridian Grand Hotel,Toronto,4
+user_196,Aspen Inn,New York,3
+user_196,Ivy Lodge,Seattle,2
+user_196,Cascade Inn,Seattle,3
+user_196,Azure Resort,Seattle,3
+user_197,Ivy Inn,Chicago,5
+user_197,Cascade Lodge,Vancouver,5
+user_197,Cascade Suites,Toronto,4
+user_197,Harbor Suites,Austin,4
+user_197,Coral Grand Hotel,New York,2
+user_197,Ivy Lodge,Seattle,3
+user_197,Monarch Lodge,New York,4
+user_197,Ivy Resort,New York,4
+user_197,Cascade Resort,Seattle,4
+user_198,Cascade Lodge,Vancouver,2
+user_198,Meridian Resort,New York,4
+user_198,Lantern Inn,Austin,4
+user_198,Regent Lodge,New York,4
+user_198,Monarch Inn,Toronto,3
+user_198,Meridian Suites,Chicago,4
+user_198,Ivy Suites,Vancouver,4
+user_198,Regent Inn,New York,3
+user_198,Azure Suites,Toronto,5
+user_198,Harbor Suites,Austin,4
+user_199,Summit Suites,New York,1
+user_199,Lantern Inn,Austin,1
+user_199,Harbor Inn,Seattle,1
+user_199,Coral Resort,Toronto,1
+user_199,Summit Resort,New York,1
+user_199,Azure Lodge,Vancouver,2
+user_199,Regent Lodge,New York,2
+user_199,Coral Lodge,Chicago,1
+user_199,Aspen Lodge,Austin,1
+user_199,Vela Grand Hotel,Austin,1
+user_199,Cascade Lodge,Vancouver,1
+user_199,Ivy Inn,Chicago,2
+user_200,Meridian Grand Hotel,Toronto,3
+user_200,Azure Resort,Seattle,3
+user_200,Aspen Resort,New York,3
+user_200,Vela Inn,Austin,2
+user_200,Vela Suites,Toronto,2
+user_200,Cascade Inn,Seattle,3
+user_200,Coral Inn,Chicago,3
+user_200,Regent Suites,Vancouver,3
+user_200,Coral Suites,Toronto,4
+user_200,Summit Grand Hotel,New York,2
+user_200,Azure Lodge,Vancouver,3
+user_200,Ivy Inn,Chicago,3
+user_200,Regent Grand Hotel,Toronto,4
+user_200,Harbor Lodge,Vancouver,4
+user_201,Monarch Lodge,New York,5
+user_201,Coral Inn,Chicago,4
+user_201,Regent Suites,Vancouver,4
+user_201,Lantern Inn,Austin,5
+user_201,Cascade Grand Hotel,Austin,4
+user_201,Vela Lodge,New York,4
+user_201,Harbor Lodge,Vancouver,3
+user_202,Azure Grand Hotel,Seattle,5
+user_202,Vela Grand Hotel,Austin,5
+user_202,Meridian Suites,Chicago,5
+user_202,Regent Grand Hotel,Toronto,5
+user_202,Aspen Inn,New York,5
+user_202,Azure Resort,Seattle,4
+user_202,Coral Suites,Toronto,5
+user_203,Vela Inn,Austin,3
+user_203,Coral Resort,Toronto,4
+user_203,Regent Inn,New York,4
+user_203,Cascade Grand Hotel,Austin,3
+user_203,Azure Resort,Seattle,2
+user_203,Coral Suites,Toronto,3
+user_204,Cascade Suites,Toronto,3
+user_204,Ivy Resort,New York,3
+user_204,Azure Inn,Vancouver,4
+user_204,Summit Inn,Toronto,4
+user_204,Ivy Grand Hotel,New York,4
+user_204,Monarch Grand Hotel,Toronto,3
+user_204,Regent Resort,Toronto,4
+user_204,Vela Inn,Austin,4
+user_204,Lantern Resort,Austin,3
+user_204,Ivy Lodge,Seattle,3
+user_204,Meridian Inn,New York,3
+user_204,Monarch Inn,Toronto,4
+user_204,Regent Suites,Vancouver,3
+user_204,Cascade Resort,Seattle,2
+user_204,Aspen Lodge,Austin,3
+user_204,Coral Grand Hotel,New York,2
+user_205,Monarch Inn,Toronto,5
+user_205,Summit Grand Hotel,New York,5
+user_205,Ivy Grand Hotel,New York,3
+user_205,Regent Suites,Vancouver,5
+user_205,Aspen Lodge,Austin,3
+user_205,Azure Grand Hotel,Seattle,3
+user_205,Cascade Lodge,Vancouver,5
+user_205,Vela Inn,Austin,3
+user_205,Ivy Suites,Vancouver,3
+user_205,Summit Lodge,Vancouver,4
+user_205,Ivy Inn,Chicago,5
+user_205,Meridian Resort,New York,4
+user_205,Azure Inn,Vancouver,5
+user_205,Harbor Inn,Seattle,5
+user_205,Lantern Inn,Austin,4
+user_205,Summit Resort,New York,3
+user_205,Cascade Inn,Seattle,5
+user_205,Azure Resort,Seattle,5
+user_205,Vela Suites,Toronto,4
+user_205,Meridian Suites,Chicago,3
+user_206,Meridian Resort,New York,4
+user_206,Regent Resort,Toronto,2
+user_206,Harbor Lodge,Vancouver,4
+user_206,Azure Lodge,Vancouver,3
+user_206,Azure Grand Hotel,Seattle,4
+user_206,Monarch Grand Hotel,Toronto,4
+user_206,Summit Inn,Toronto,2
+user_207,Azure Suites,Toronto,3
+user_207,Cascade Resort,Seattle,3
+user_207,Meridian Resort,New York,1
+user_207,Regent Resort,Toronto,3
+user_207,Monarch Inn,Toronto,2
+user_207,Azure Resort,Seattle,3
+user_207,Cascade Inn,Seattle,1
+user_207,Aspen Lodge,Austin,3
+user_207,Ivy Resort,New York,1
+user_207,Azure Lodge,Vancouver,4
+user_207,Cascade Suites,Toronto,2
+user_207,Coral Lodge,Chicago,1
+user_207,Monarch Lodge,New York,3
+user_207,Coral Resort,Toronto,2
+user_207,Azure Grand Hotel,Seattle,4
+user_207,Regent Grand Hotel,Toronto,1
+user_207,Summit Suites,New York,2
+user_207,Lantern Inn,Austin,1
+user_207,Vela Lodge,New York,2
+user_207,Harbor Lodge,Vancouver,2
+user_208,Coral Resort,Toronto,4
+user_208,Meridian Suites,Chicago,3
+user_208,Vela Inn,Austin,4
+user_208,Aspen Grand Hotel,Toronto,3
+user_208,Harbor Grand Hotel,Austin,4
+user_208,Lantern Lodge,Chicago,1
+user_208,Cascade Suites,Toronto,2
+user_208,Azure Grand Hotel,Seattle,4
+user_208,Harbor Lodge,Vancouver,2
+user_208,Lantern Inn,Austin,3
+user_208,Azure Resort,Seattle,3
+user_208,Cascade Lodge,Vancouver,3
+user_208,Aspen Resort,New York,3
+user_208,Regent Inn,New York,3
+user_208,Meridian Inn,New York,4
+user_208,Aspen Inn,New York,4
+user_208,Azure Inn,Vancouver,3
+user_208,Lantern Grand Hotel,Vancouver,3
+user_208,Coral Suites,Toronto,2
+user_209,Harbor Lodge,Vancouver,2
+user_209,Meridian Resort,New York,3
+user_209,Azure Inn,Vancouver,3
+user_209,Lantern Grand Hotel,Vancouver,2
+user_209,Regent Resort,Toronto,2
+user_209,Summit Grand Hotel,New York,1
+user_209,Cascade Suites,Toronto,2
+user_209,Cascade Inn,Seattle,2
+user_209,Azure Grand Hotel,Seattle,1
+user_210,Regent Grand Hotel,Toronto,1
+user_210,Cascade Resort,Seattle,1
+user_210,Vela Lodge,New York,5
+user_210,Azure Suites,Toronto,4
+user_210,Aspen Suites,New York,2
+user_210,Monarch Inn,Toronto,5
+user_210,Coral Lodge,Chicago,5
+user_210,Azure Resort,Seattle,4
+user_210,Coral Resort,Toronto,2
+user_210,Monarch Grand Hotel,Toronto,2
+user_210,Lantern Inn,Austin,2
+user_211,Lantern Resort,Austin,3
+user_211,Coral Grand Hotel,New York,2
+user_211,Lantern Suites,New York,3
+user_211,Ivy Resort,New York,3
+user_211,Lantern Inn,Austin,3
+user_211,Ivy Inn,Chicago,3
+user_211,Cascade Suites,Toronto,2
+user_212,Summit Resort,New York,2
+user_212,Vela Grand Hotel,Austin,1
+user_212,Regent Grand Hotel,Toronto,1
+user_212,Ivy Lodge,Seattle,1
+user_212,Lantern Resort,Austin,2
+user_212,Monarch Inn,Toronto,3
+user_212,Ivy Inn,Chicago,2
+user_212,Vela Suites,Toronto,2
+user_212,Azure Suites,Toronto,2
+user_213,Vela Resort,Chicago,5
+user_213,Lantern Resort,Austin,4
+user_213,Vela Inn,Austin,4
+user_213,Ivy Lodge,Seattle,5
+user_213,Monarch Inn,Toronto,4
+user_213,Regent Resort,Toronto,5
+user_213,Lantern Suites,New York,5
+user_214,Azure Lodge,Vancouver,5
+user_214,Lantern Grand Hotel,Vancouver,4
+user_214,Monarch Grand Hotel,Toronto,5
+user_214,Azure Resort,Seattle,4
+user_214,Lantern Resort,Austin,5
+user_214,Azure Suites,Toronto,5
+user_214,Meridian Inn,New York,5
+user_214,Summit Suites,New York,5
+user_214,Ivy Inn,Chicago,3
+user_214,Summit Resort,New York,5
+user_214,Summit Grand Hotel,New York,5
+user_215,Coral Suites,Toronto,5
+user_215,Summit Suites,New York,5
+user_215,Lantern Resort,Austin,4
+user_215,Harbor Lodge,Vancouver,5
+user_215,Regent Grand Hotel,Toronto,3
+user_215,Monarch Grand Hotel,Toronto,4
+user_215,Regent Inn,New York,5
+user_215,Azure Resort,Seattle,5
+user_215,Coral Inn,Chicago,5
+user_215,Harbor Grand Hotel,Austin,4
+user_215,Azure Suites,Toronto,5
+user_215,Cascade Inn,Seattle,5
+user_215,Lantern Grand Hotel,Vancouver,4
+user_216,Azure Lodge,Vancouver,3
+user_216,Harbor Grand Hotel,Austin,3
+user_216,Vela Suites,Toronto,3
+user_216,Vela Inn,Austin,3
+user_216,Monarch Inn,Toronto,2
+user_216,Regent Lodge,New York,3
+user_216,Vela Grand Hotel,Austin,3
+user_216,Lantern Inn,Austin,3
+user_216,Lantern Lodge,Chicago,3
+user_216,Cascade Suites,Toronto,3
+user_217,Monarch Suites,New York,3
+user_217,Ivy Inn,Chicago,2
+user_217,Monarch Inn,Toronto,2
+user_217,Azure Resort,Seattle,4
+user_217,Coral Lodge,Chicago,1
+user_217,Summit Grand Hotel,New York,3
+user_217,Lantern Inn,Austin,3
+user_217,Harbor Resort,Toronto,1
+user_217,Lantern Lodge,Chicago,2
+user_217,Ivy Lodge,Seattle,4
+user_217,Aspen Resort,New York,3
+user_217,Meridian Suites,Chicago,4
+user_217,Regent Suites,Vancouver,3
+user_217,Meridian Inn,New York,4
+user_217,Azure Inn,Vancouver,2
+user_217,Coral Grand Hotel,New York,3
+user_217,Cascade Inn,Seattle,2
+user_217,Monarch Lodge,New York,3
+user_217,Azure Grand Hotel,Seattle,3
+user_217,Coral Resort,Toronto,3
+user_218,Lantern Lodge,Chicago,4
+user_218,Aspen Inn,New York,2
+user_218,Azure Inn,Vancouver,5
+user_218,Regent Grand Hotel,Toronto,3
+user_218,Cascade Suites,Toronto,4
+user_218,Regent Inn,New York,4
+user_218,Monarch Inn,Toronto,4
+user_218,Azure Resort,Seattle,3
+user_218,Lantern Inn,Austin,3
+user_218,Cascade Lodge,Vancouver,4
+user_218,Ivy Lodge,Seattle,2
+user_218,Summit Grand Hotel,New York,4
+user_218,Azure Grand Hotel,Seattle,4
+user_218,Meridian Grand Hotel,Toronto,4
+user_219,Harbor Inn,Seattle,4
+user_219,Lantern Resort,Austin,5
+user_219,Azure Resort,Seattle,5
+user_219,Harbor Lodge,Vancouver,4
+user_219,Lantern Inn,Austin,4
+user_219,Lantern Grand Hotel,Vancouver,5
+user_219,Summit Lodge,Vancouver,5
+user_219,Coral Grand Hotel,New York,5
+user_220,Aspen Suites,New York,1
+user_220,Monarch Resort,Vancouver,1
+user_220,Cascade Grand Hotel,Austin,2
+user_220,Meridian Resort,New York,2
+user_220,Azure Inn,Vancouver,2
+user_220,Aspen Resort,New York,2
+user_220,Ivy Suites,Vancouver,2
+user_220,Lantern Inn,Austin,2
+user_220,Regent Grand Hotel,Toronto,1
+user_220,Lantern Resort,Austin,2
+user_220,Harbor Lodge,Vancouver,3
+user_220,Monarch Inn,Toronto,1
+user_220,Azure Suites,Toronto,1
+user_220,Summit Suites,New York,1
+user_220,Ivy Lodge,Seattle,1
+user_220,Ivy Inn,Chicago,3
+user_220,Vela Grand Hotel,Austin,2
+user_220,Regent Resort,Toronto,2
+user_221,Lantern Inn,Austin,5
+user_221,Lantern Resort,Austin,3
+user_221,Aspen Resort,New York,1
+user_221,Lantern Grand Hotel,Vancouver,4
+user_221,Regent Suites,Vancouver,1
+user_221,Vela Lodge,New York,3
+user_221,Aspen Suites,New York,4
+user_221,Meridian Lodge,Chicago,2
+user_221,Azure Resort,Seattle,2
+user_221,Harbor Grand Hotel,Austin,3
+user_221,Ivy Resort,New York,2
+user_221,Cascade Resort,Seattle,5
+user_221,Harbor Lodge,Vancouver,2
+user_221,Cascade Grand Hotel,Austin,3
+user_221,Summit Lodge,Vancouver,4
+user_221,Aspen Lodge,Austin,3
+user_221,Vela Resort,Chicago,2
+user_221,Meridian Suites,Chicago,5
+user_222,Aspen Resort,New York,4
+user_222,Summit Resort,New York,3
+user_222,Meridian Inn,New York,4
+user_222,Cascade Grand Hotel,Austin,3
+user_222,Azure Inn,Vancouver,4
+user_222,Lantern Inn,Austin,5
+user_222,Monarch Lodge,New York,4
+user_222,Ivy Grand Hotel,New York,4
+user_222,Ivy Suites,Vancouver,5
+user_222,Lantern Resort,Austin,3
+user_222,Meridian Resort,New York,4
+user_222,Harbor Grand Hotel,Austin,5
+user_222,Summit Lodge,Vancouver,3
+user_222,Meridian Suites,Chicago,5
+user_222,Coral Suites,Toronto,4
+user_222,Cascade Resort,Seattle,5
+user_223,Cascade Suites,Toronto,3
+user_223,Monarch Lodge,New York,4
+user_223,Azure Inn,Vancouver,4
+user_223,Cascade Resort,Seattle,5
+user_223,Cascade Grand Hotel,Austin,4
+user_223,Summit Lodge,Vancouver,5
+user_223,Azure Suites,Toronto,5
+user_223,Harbor Grand Hotel,Austin,5
+user_223,Meridian Grand Hotel,Toronto,4
+user_223,Monarch Inn,Toronto,4
+user_223,Lantern Suites,New York,4
+user_223,Meridian Lodge,Chicago,3
+user_223,Azure Resort,Seattle,5
+user_223,Aspen Suites,New York,4
+user_223,Coral Lodge,Chicago,3
+user_223,Vela Lodge,New York,3
+user_223,Harbor Lodge,Vancouver,4
+user_223,Vela Suites,Toronto,4
+user_223,Coral Suites,Toronto,4
+user_224,Cascade Suites,Toronto,5
+user_224,Aspen Resort,New York,5
+user_224,Regent Resort,Toronto,5
+user_224,Vela Inn,Austin,5
+user_224,Regent Grand Hotel,Toronto,5
+user_224,Lantern Inn,Austin,5
+user_224,Ivy Inn,Chicago,4
+user_224,Summit Suites,New York,5
+user_224,Vela Suites,Toronto,5
+user_224,Meridian Resort,New York,5
+user_224,Coral Grand Hotel,New York,5
+user_224,Coral Lodge,Chicago,5
+user_224,Monarch Lodge,New York,5
+user_224,Harbor Suites,Austin,5
+user_224,Cascade Grand Hotel,Austin,5
+user_225,Harbor Lodge,Vancouver,1
+user_225,Ivy Inn,Chicago,2
+user_225,Monarch Inn,Toronto,2
+user_225,Lantern Grand Hotel,Vancouver,4
+user_225,Azure Suites,Toronto,2
+user_225,Meridian Lodge,Chicago,2
+user_225,Lantern Resort,Austin,3
+user_225,Monarch Resort,Vancouver,2
+user_225,Regent Grand Hotel,Toronto,4
+user_225,Cascade Grand Hotel,Austin,4
+user_225,Vela Resort,Chicago,2
+user_225,Meridian Grand Hotel,Toronto,2
+user_225,Meridian Resort,New York,2
+user_225,Coral Resort,Toronto,3
+user_225,Azure Resort,Seattle,2
+user_225,Aspen Inn,New York,3
+user_225,Regent Inn,New York,2
+user_225,Azure Lodge,Vancouver,3
+user_225,Summit Suites,New York,3
+user_226,Harbor Resort,Toronto,5
+user_226,Monarch Grand Hotel,Toronto,3
+user_226,Meridian Inn,New York,3
+user_226,Lantern Inn,Austin,4
+user_226,Monarch Resort,Vancouver,5
+user_226,Ivy Inn,Chicago,4
+user_226,Monarch Inn,Toronto,5
+user_227,Coral Inn,Chicago,5
+user_227,Lantern Grand Hotel,Vancouver,5
+user_227,Monarch Resort,Vancouver,5
+user_227,Aspen Grand Hotel,Toronto,5
+user_227,Meridian Grand Hotel,Toronto,4
+user_227,Harbor Inn,Seattle,4
+user_227,Regent Suites,Vancouver,4
+user_227,Aspen Resort,New York,5
+user_228,Vela Suites,Toronto,3
+user_228,Meridian Inn,New York,2
+user_228,Monarch Grand Hotel,Toronto,1
+user_228,Summit Inn,Toronto,3
+user_228,Coral Lodge,Chicago,3
+user_228,Lantern Resort,Austin,2
+user_228,Ivy Inn,Chicago,4
+user_228,Summit Grand Hotel,New York,3
+user_228,Harbor Lodge,Vancouver,3
+user_228,Cascade Suites,Toronto,2
+user_228,Monarch Lodge,New York,2
+user_228,Summit Suites,New York,2
+user_228,Coral Suites,Toronto,2
+user_228,Monarch Inn,Toronto,3
+user_228,Meridian Grand Hotel,Toronto,2
+user_228,Cascade Resort,Seattle,1
+user_228,Monarch Resort,Vancouver,1
+user_228,Cascade Lodge,Vancouver,3
+user_229,Lantern Grand Hotel,Vancouver,4
+user_229,Ivy Resort,New York,2
+user_229,Ivy Inn,Chicago,2
+user_229,Vela Lodge,New York,3
+user_229,Cascade Inn,Seattle,3
+user_229,Aspen Lodge,Austin,3
+user_229,Cascade Suites,Toronto,3
+user_229,Harbor Grand Hotel,Austin,4
+user_230,Regent Grand Hotel,Toronto,5
+user_230,Cascade Suites,Toronto,4
+user_230,Lantern Grand Hotel,Vancouver,4
+user_230,Coral Grand Hotel,New York,4
+user_230,Regent Inn,New York,3
+user_230,Aspen Grand Hotel,Toronto,3
+user_230,Monarch Lodge,New York,4
+user_230,Cascade Inn,Seattle,1
+user_230,Monarch Suites,New York,4
+user_230,Summit Grand Hotel,New York,2
+user_230,Meridian Resort,New York,4
+user_230,Aspen Lodge,Austin,3
+user_230,Coral Resort,Toronto,5
+user_230,Vela Suites,Toronto,3
+user_230,Ivy Inn,Chicago,2
+user_231,Ivy Inn,Chicago,5
+user_231,Harbor Lodge,Vancouver,4
+user_231,Vela Lodge,New York,4
+user_231,Azure Suites,Toronto,4
+user_231,Vela Suites,Toronto,5
+user_231,Regent Grand Hotel,Toronto,4
+user_231,Cascade Grand Hotel,Austin,3
+user_231,Monarch Lodge,New York,4
+user_232,Regent Grand Hotel,Toronto,2
+user_232,Summit Resort,New York,4
+user_232,Regent Resort,Toronto,4
+user_232,Azure Suites,Toronto,5
+user_232,Meridian Suites,Chicago,3
+user_232,Vela Inn,Austin,4
+user_232,Summit Inn,Toronto,5
+user_232,Vela Lodge,New York,3
+user_233,Harbor Inn,Seattle,4
+user_233,Regent Inn,New York,3
+user_233,Cascade Resort,Seattle,4
+user_233,Harbor Suites,Austin,4
+user_233,Coral Resort,Toronto,5
+user_233,Monarch Grand Hotel,Toronto,3
+user_234,Vela Inn,Austin,4
+user_234,Regent Resort,Toronto,3
+user_234,Ivy Inn,Chicago,3
+user_234,Coral Lodge,Chicago,4
+user_234,Harbor Grand Hotel,Austin,4
+user_234,Ivy Resort,New York,3
+user_234,Monarch Lodge,New York,5
+user_235,Lantern Grand Hotel,Vancouver,5
+user_235,Summit Inn,Toronto,5
+user_235,Coral Resort,Toronto,5
+user_235,Ivy Inn,Chicago,5
+user_235,Coral Suites,Toronto,5
+user_235,Ivy Lodge,Seattle,5
+user_235,Meridian Resort,New York,5
+user_236,Cascade Inn,Seattle,3
+user_236,Coral Lodge,Chicago,3
+user_236,Azure Resort,Seattle,5
+user_236,Meridian Suites,Chicago,3
+user_236,Lantern Resort,Austin,3
+user_236,Aspen Lodge,Austin,4
+user_236,Aspen Grand Hotel,Toronto,3
+user_236,Azure Lodge,Vancouver,5
+user_236,Azure Inn,Vancouver,3
+user_237,Harbor Grand Hotel,Austin,4
+user_237,Meridian Suites,Chicago,4
+user_237,Vela Inn,Austin,5
+user_237,Coral Suites,Toronto,5
+user_237,Cascade Inn,Seattle,5
+user_237,Coral Inn,Chicago,5
+user_237,Monarch Lodge,New York,4
+user_237,Azure Grand Hotel,Seattle,5
+user_237,Azure Lodge,Vancouver,5
+user_237,Summit Inn,Toronto,5
+user_237,Regent Inn,New York,5
+user_237,Cascade Suites,Toronto,5
+user_237,Meridian Grand Hotel,Toronto,5
+user_237,Harbor Lodge,Vancouver,5
+user_237,Meridian Lodge,Chicago,5
+user_237,Ivy Lodge,Seattle,5
+user_238,Azure Suites,Toronto,2
+user_238,Azure Resort,Seattle,1
+user_238,Cascade Suites,Toronto,3
+user_238,Aspen Grand Hotel,Toronto,3
+user_238,Coral Suites,Toronto,1
+user_238,Summit Suites,New York,1
+user_238,Cascade Lodge,Vancouver,2
+user_238,Regent Resort,Toronto,2
+user_238,Lantern Inn,Austin,1
+user_238,Monarch Resort,Vancouver,2
+user_238,Meridian Lodge,Chicago,4
+user_238,Meridian Grand Hotel,Toronto,2
+user_238,Lantern Resort,Austin,2
+user_238,Ivy Resort,New York,4
+user_238,Monarch Inn,Toronto,2
+user_238,Summit Inn,Toronto,1
+user_238,Regent Lodge,New York,3
+user_238,Ivy Inn,Chicago,3
+user_238,Monarch Suites,New York,2
+user_238,Monarch Grand Hotel,Toronto,1
+user_239,Coral Lodge,Chicago,5
+user_239,Regent Inn,New York,4
+user_239,Lantern Grand Hotel,Vancouver,5
+user_239,Aspen Inn,New York,5
+user_239,Harbor Grand Hotel,Austin,4
+user_239,Vela Grand Hotel,Austin,4
+user_239,Coral Suites,Toronto,5
+user_239,Summit Suites,New York,5
+user_239,Ivy Inn,Chicago,5
+user_239,Azure Suites,Toronto,5
+user_239,Monarch Resort,Vancouver,5
+user_239,Cascade Suites,Toronto,5
+user_239,Aspen Resort,New York,5
+user_239,Summit Inn,Toronto,5
+user_239,Meridian Inn,New York,5
+user_239,Regent Grand Hotel,Toronto,3
+user_240,Monarch Grand Hotel,Toronto,5
+user_240,Lantern Grand Hotel,Vancouver,5
+user_240,Harbor Inn,Seattle,5
+user_240,Regent Lodge,New York,4
+user_240,Summit Grand Hotel,New York,4
+user_240,Cascade Lodge,Vancouver,5
+user_240,Lantern Lodge,Chicago,5
+user_240,Monarch Inn,Toronto,5
+user_240,Meridian Inn,New York,4
+user_240,Harbor Lodge,Vancouver,5
+user_240,Azure Inn,Vancouver,5
+user_240,Cascade Resort,Seattle,5
+user_241,Cascade Suites,Toronto,4
+user_241,Lantern Resort,Austin,3
+user_241,Cascade Grand Hotel,Austin,3
+user_241,Meridian Suites,Chicago,3
+user_241,Azure Suites,Toronto,4
+user_241,Vela Resort,Chicago,3
+user_242,Cascade Inn,Seattle,4
+user_242,Regent Resort,Toronto,4
+user_242,Regent Grand Hotel,Toronto,1
+user_242,Ivy Resort,New York,5
+user_242,Ivy Inn,Chicago,5
+user_242,Summit Grand Hotel,New York,4
+user_242,Vela Resort,Chicago,3
+user_242,Lantern Resort,Austin,2
+user_242,Summit Suites,New York,3
+user_242,Regent Inn,New York,4
+user_242,Vela Inn,Austin,2
+user_242,Coral Inn,Chicago,3
+user_242,Meridian Inn,New York,4
+user_242,Azure Inn,Vancouver,4
+user_242,Cascade Suites,Toronto,3
+user_242,Monarch Grand Hotel,Toronto,4
+user_242,Lantern Inn,Austin,3
+user_242,Ivy Suites,Vancouver,2
+user_243,Monarch Resort,Vancouver,5
+user_243,Harbor Inn,Seattle,4
+user_243,Lantern Resort,Austin,4
+user_243,Vela Suites,Toronto,5
+user_243,Meridian Suites,Chicago,4
+user_243,Azure Suites,Toronto,5
+user_243,Harbor Lodge,Vancouver,4
+user_243,Aspen Inn,New York,5
+user_243,Summit Suites,New York,5
+user_243,Coral Resort,Toronto,5
+user_243,Lantern Inn,Austin,5
+user_244,Lantern Grand Hotel,Vancouver,4
+user_244,Regent Lodge,New York,4
+user_244,Lantern Lodge,Chicago,3
+user_244,Lantern Resort,Austin,4
+user_244,Monarch Resort,Vancouver,4
+user_244,Coral Suites,Toronto,2
+user_244,Regent Resort,Toronto,4
+user_244,Cascade Resort,Seattle,4
+user_244,Lantern Inn,Austin,4
+user_244,Summit Lodge,Vancouver,3
+user_244,Harbor Lodge,Vancouver,1
+user_244,Azure Suites,Toronto,3
+user_244,Harbor Inn,Seattle,3
+user_244,Harbor Grand Hotel,Austin,5
+user_244,Azure Lodge,Vancouver,4
+user_244,Regent Grand Hotel,Toronto,5
+user_245,Meridian Resort,New York,2
+user_245,Regent Suites,Vancouver,3
+user_245,Vela Inn,Austin,3
+user_245,Ivy Inn,Chicago,4
+user_245,Meridian Grand Hotel,Toronto,2
+user_245,Ivy Suites,Vancouver,2
+user_245,Summit Suites,New York,2
+user_245,Regent Grand Hotel,Toronto,1
+user_245,Coral Grand Hotel,New York,1
+user_245,Aspen Lodge,Austin,2
+user_245,Meridian Suites,Chicago,1
+user_245,Cascade Resort,Seattle,1
+user_246,Harbor Resort,Toronto,5
+user_246,Meridian Resort,New York,4
+user_246,Ivy Suites,Vancouver,4
+user_246,Coral Grand Hotel,New York,4
+user_246,Aspen Inn,New York,2
+user_246,Regent Inn,New York,4
+user_246,Regent Grand Hotel,Toronto,4
+user_246,Vela Lodge,New York,5
+user_246,Harbor Inn,Seattle,5
+user_246,Harbor Suites,Austin,5
+user_247,Azure Suites,Toronto,4
+user_247,Lantern Grand Hotel,Vancouver,5
+user_247,Ivy Inn,Chicago,5
+user_247,Lantern Resort,Austin,4
+user_247,Harbor Lodge,Vancouver,5
+user_247,Azure Inn,Vancouver,5
+user_247,Vela Lodge,New York,5
+user_247,Vela Inn,Austin,3
+user_247,Cascade Grand Hotel,Austin,5
+user_247,Cascade Resort,Seattle,5
+user_247,Meridian Grand Hotel,Toronto,5
+user_247,Regent Inn,New York,5
+user_247,Coral Inn,Chicago,5
+user_247,Meridian Suites,Chicago,4
+user_247,Lantern Inn,Austin,5
+user_248,Cascade Suites,Toronto,3
+user_248,Aspen Lodge,Austin,4
+user_248,Cascade Inn,Seattle,3
+user_248,Aspen Resort,New York,3
+user_248,Lantern Inn,Austin,4
+user_248,Summit Inn,Toronto,5
+user_248,Azure Resort,Seattle,5
+user_248,Azure Inn,Vancouver,1
+user_248,Meridian Suites,Chicago,5
+user_248,Vela Grand Hotel,Austin,5
+user_248,Ivy Resort,New York,2
+user_248,Lantern Resort,Austin,5
+user_248,Cascade Lodge,Vancouver,3
+user_248,Meridian Inn,New York,5
+user_248,Aspen Grand Hotel,Toronto,4
+user_249,Vela Inn,Austin,5
+user_249,Lantern Grand Hotel,Vancouver,5
+user_249,Cascade Grand Hotel,Austin,3
+user_249,Vela Lodge,New York,5
+user_249,Meridian Grand Hotel,Toronto,5
+user_249,Azure Inn,Vancouver,5
+user_249,Meridian Lodge,Chicago,5
+user_249,Lantern Resort,Austin,4
+user_249,Coral Suites,Toronto,5
+user_249,Meridian Suites,Chicago,4
+user_249,Monarch Inn,Toronto,4
+user_249,Monarch Resort,Vancouver,5
+user_249,Ivy Suites,Vancouver,4
+user_249,Summit Suites,New York,5
+user_249,Vela Grand Hotel,Austin,5
+user_249,Coral Lodge,Chicago,5
+user_249,Azure Resort,Seattle,5
+user_249,Cascade Inn,Seattle,5
+user_249,Meridian Inn,New York,3
+user_249,Summit Inn,Toronto,4
+user_250,Summit Suites,New York,4
+user_250,Summit Inn,Toronto,5
+user_250,Monarch Lodge,New York,3
+user_250,Regent Inn,New York,2
+user_250,Cascade Grand Hotel,Austin,4
+user_250,Vela Inn,Austin,4
+user_250,Vela Grand Hotel,Austin,4
+user_250,Azure Suites,Toronto,4
+user_250,Cascade Resort,Seattle,3
+user_250,Ivy Inn,Chicago,2
+user_250,Azure Lodge,Vancouver,5
+user_250,Meridian Resort,New York,3
+user_250,Coral Inn,Chicago,3
+user_250,Azure Resort,Seattle,4
+user_250,Vela Resort,Chicago,4
+user_250,Cascade Suites,Toronto,4
+user_250,Coral Lodge,Chicago,3
+user_250,Vela Lodge,New York,3
+user_250,Cascade Inn,Seattle,3
+user_250,Coral Suites,Toronto,3
+user_251,Meridian Resort,New York,3
+user_251,Cascade Inn,Seattle,3
+user_251,Cascade Resort,Seattle,4
+user_251,Azure Suites,Toronto,2
+user_251,Meridian Inn,New York,2
+user_251,Coral Inn,Chicago,3
+user_251,Monarch Lodge,New York,4
+user_251,Ivy Inn,Chicago,4
+user_251,Meridian Grand Hotel,Toronto,4
+user_251,Meridian Suites,Chicago,4
+user_251,Aspen Resort,New York,4
+user_252,Harbor Lodge,Vancouver,3
+user_252,Coral Suites,Toronto,2
+user_252,Lantern Inn,Austin,3
+user_252,Regent Grand Hotel,Toronto,2
+user_252,Cascade Suites,Toronto,3
+user_252,Coral Resort,Toronto,2
+user_252,Harbor Grand Hotel,Austin,2
+user_252,Harbor Suites,Austin,2
+user_252,Monarch Resort,Vancouver,2
+user_252,Azure Lodge,Vancouver,2
+user_252,Summit Suites,New York,1
+user_252,Cascade Lodge,Vancouver,3
+user_252,Azure Suites,Toronto,1
+user_252,Harbor Inn,Seattle,3
+user_253,Summit Lodge,Vancouver,1
+user_253,Meridian Resort,New York,1
+user_253,Vela Grand Hotel,Austin,1
+user_253,Harbor Grand Hotel,Austin,1
+user_253,Monarch Inn,Toronto,1
+user_253,Aspen Grand Hotel,Toronto,1
+user_253,Meridian Lodge,Chicago,3
+user_253,Regent Grand Hotel,Toronto,1
+user_253,Ivy Inn,Chicago,2
+user_253,Vela Suites,Toronto,1
+user_253,Azure Inn,Vancouver,1
+user_253,Aspen Inn,New York,1
+user_253,Azure Lodge,Vancouver,1
+user_253,Summit Grand Hotel,New York,1
+user_253,Meridian Grand Hotel,Toronto,2
+user_253,Regent Inn,New York,3
+user_253,Lantern Resort,Austin,1
+user_253,Vela Inn,Austin,1
+user_253,Azure Resort,Seattle,1
+user_254,Lantern Grand Hotel,Vancouver,4
+user_254,Monarch Lodge,New York,4
+user_254,Harbor Suites,Austin,4
+user_254,Ivy Inn,Chicago,3
+user_254,Regent Inn,New York,3
+user_254,Monarch Resort,Vancouver,3
+user_254,Azure Suites,Toronto,3
+user_254,Summit Lodge,Vancouver,5
+user_254,Azure Resort,Seattle,3
+user_254,Vela Lodge,New York,5
+user_254,Monarch Inn,Toronto,4
+user_254,Ivy Lodge,Seattle,3
+user_254,Summit Suites,New York,3
+user_254,Lantern Resort,Austin,2
+user_255,Vela Suites,Toronto,4
+user_255,Lantern Inn,Austin,4
+user_255,Azure Suites,Toronto,2
+user_255,Vela Resort,Chicago,3
+user_255,Harbor Inn,Seattle,5
+user_255,Harbor Resort,Toronto,4
+user_255,Lantern Resort,Austin,4
+user_255,Aspen Resort,New York,3
+user_255,Azure Resort,Seattle,3
+user_255,Lantern Suites,New York,2
+user_256,Regent Lodge,New York,2
+user_256,Azure Inn,Vancouver,4
+user_256,Aspen Lodge,Austin,2
+user_256,Lantern Resort,Austin,2
+user_256,Cascade Grand Hotel,Austin,3
+user_256,Cascade Resort,Seattle,2
+user_256,Aspen Resort,New York,4
+user_256,Cascade Lodge,Vancouver,4
+user_256,Ivy Lodge,Seattle,1
+user_256,Cascade Inn,Seattle,4
+user_257,Coral Lodge,Chicago,3
+user_257,Vela Resort,Chicago,2
+user_257,Vela Grand Hotel,Austin,3
+user_257,Monarch Grand Hotel,Toronto,2
+user_257,Azure Grand Hotel,Seattle,2
+user_257,Coral Grand Hotel,New York,2
+user_257,Monarch Inn,Toronto,3
+user_257,Lantern Grand Hotel,Vancouver,3
+user_257,Summit Inn,Toronto,2
+user_257,Aspen Grand Hotel,Toronto,3
+user_257,Cascade Resort,Seattle,4
+user_257,Lantern Inn,Austin,4
+user_257,Meridian Resort,New York,3
+user_257,Coral Suites,Toronto,2
+user_257,Coral Resort,Toronto,3
+user_257,Regent Grand Hotel,Toronto,5
+user_257,Lantern Resort,Austin,2
+user_257,Vela Suites,Toronto,2
+user_258,Meridian Lodge,Chicago,5
+user_258,Lantern Resort,Austin,4
+user_258,Monarch Grand Hotel,Toronto,4
+user_258,Cascade Resort,Seattle,4
+user_258,Azure Lodge,Vancouver,4
+user_258,Vela Grand Hotel,Austin,5
+user_258,Meridian Resort,New York,4
+user_258,Monarch Lodge,New York,4
+user_259,Coral Lodge,Chicago,3
+user_259,Cascade Inn,Seattle,4
+user_259,Coral Grand Hotel,New York,2
+user_259,Monarch Resort,Vancouver,4
+user_259,Lantern Inn,Austin,2
+user_259,Cascade Lodge,Vancouver,4
+user_259,Coral Suites,Toronto,4
+user_259,Meridian Grand Hotel,Toronto,2
+user_259,Meridian Suites,Chicago,1
+user_259,Lantern Resort,Austin,3
+user_259,Monarch Inn,Toronto,4
+user_259,Cascade Resort,Seattle,1
+user_259,Vela Resort,Chicago,4
+user_259,Monarch Lodge,New York,2
+user_259,Aspen Lodge,Austin,2
+user_259,Aspen Grand Hotel,Toronto,4
+user_259,Summit Suites,New York,4
+user_259,Vela Inn,Austin,3
+user_259,Harbor Lodge,Vancouver,4
+user_259,Lantern Grand Hotel,Vancouver,3
+user_260,Coral Lodge,Chicago,2
+user_260,Aspen Inn,New York,4
+user_260,Ivy Resort,New York,4
+user_260,Aspen Resort,New York,3
+user_260,Coral Resort,Toronto,2
+user_260,Monarch Resort,Vancouver,4
+user_260,Harbor Lodge,Vancouver,3
+user_260,Coral Inn,Chicago,3
+user_260,Monarch Lodge,New York,2
+user_260,Cascade Inn,Seattle,3
+user_261,Cascade Grand Hotel,Austin,4
+user_261,Lantern Inn,Austin,3
+user_261,Meridian Suites,Chicago,3
+user_261,Cascade Suites,Toronto,3
+user_261,Lantern Grand Hotel,Vancouver,3
+user_261,Coral Lodge,Chicago,4
+user_261,Azure Resort,Seattle,4
+user_261,Azure Inn,Vancouver,5
+user_261,Harbor Lodge,Vancouver,4
+user_262,Coral Suites,Toronto,5
+user_262,Meridian Resort,New York,5
+user_262,Monarch Inn,Toronto,5
+user_262,Vela Lodge,New York,5
+user_262,Lantern Grand Hotel,Vancouver,5
+user_262,Monarch Resort,Vancouver,5
+user_262,Aspen Lodge,Austin,5
+user_263,Monarch Inn,Toronto,1
+user_263,Coral Lodge,Chicago,2
+user_263,Lantern Inn,Austin,3
+user_263,Regent Grand Hotel,Toronto,4
+user_263,Lantern Suites,New York,1
+user_263,Meridian Suites,Chicago,3
+user_263,Lantern Resort,Austin,2
+user_263,Vela Grand Hotel,Austin,3
+user_264,Cascade Lodge,Vancouver,5
+user_264,Lantern Inn,Austin,5
+user_264,Monarch Grand Hotel,Toronto,4
+user_264,Ivy Lodge,Seattle,3
+user_264,Vela Grand Hotel,Austin,5
+user_264,Harbor Suites,Austin,5
+user_264,Meridian Grand Hotel,Toronto,5
+user_264,Cascade Grand Hotel,Austin,5
+user_264,Summit Suites,New York,3
+user_264,Azure Grand Hotel,Seattle,5
+user_264,Summit Lodge,Vancouver,5
+user_264,Azure Lodge,Vancouver,4
+user_264,Monarch Inn,Toronto,4
+user_264,Ivy Inn,Chicago,5
+user_264,Vela Suites,Toronto,4
+user_264,Lantern Resort,Austin,5
+user_265,Azure Resort,Seattle,5
+user_265,Coral Suites,Toronto,5
+user_265,Meridian Inn,New York,4
+user_265,Monarch Inn,Toronto,5
+user_265,Aspen Suites,New York,5
+user_265,Vela Suites,Toronto,5
+user_265,Cascade Resort,Seattle,5
+user_265,Ivy Resort,New York,4
+user_265,Harbor Lodge,Vancouver,5
+user_265,Vela Resort,Chicago,5
+user_265,Aspen Lodge,Austin,5
+user_265,Azure Suites,Toronto,4
+user_265,Meridian Grand Hotel,Toronto,5
+user_265,Coral Lodge,Chicago,5
+user_265,Regent Resort,Toronto,5
+user_265,Lantern Resort,Austin,4
+user_265,Cascade Inn,Seattle,5
+user_265,Ivy Suites,Vancouver,5
+user_266,Summit Grand Hotel,New York,1
+user_266,Lantern Resort,Austin,2
+user_266,Lantern Inn,Austin,2
+user_266,Cascade Suites,Toronto,1
+user_266,Cascade Lodge,Vancouver,1
+user_266,Cascade Inn,Seattle,1
+user_266,Aspen Inn,New York,1
+user_266,Meridian Resort,New York,2
+user_266,Monarch Lodge,New York,3
+user_266,Harbor Grand Hotel,Austin,1
+user_266,Coral Suites,Toronto,1
+user_266,Aspen Grand Hotel,Toronto,1
+user_266,Meridian Lodge,Chicago,3
+user_266,Ivy Resort,New York,1
+user_266,Regent Resort,Toronto,1
+user_266,Azure Suites,Toronto,1
+user_267,Ivy Inn,Chicago,3
+user_267,Coral Suites,Toronto,3
+user_267,Cascade Lodge,Vancouver,3
+user_267,Vela Inn,Austin,4
+user_267,Harbor Lodge,Vancouver,4
+user_267,Azure Inn,Vancouver,3
+user_267,Coral Lodge,Chicago,3
+user_267,Coral Grand Hotel,New York,2
+user_267,Summit Grand Hotel,New York,4
+user_267,Lantern Grand Hotel,Vancouver,3
+user_267,Harbor Grand Hotel,Austin,2
+user_267,Meridian Suites,Chicago,3
+user_267,Lantern Suites,New York,3
+user_267,Azure Suites,Toronto,3
+user_267,Azure Grand Hotel,Seattle,3
+user_267,Regent Resort,Toronto,3
+user_267,Meridian Resort,New York,2
+user_267,Aspen Inn,New York,3
+user_267,Cascade Inn,Seattle,3
+user_268,Lantern Lodge,Chicago,5
+user_268,Lantern Inn,Austin,5
+user_268,Regent Grand Hotel,Toronto,4
+user_268,Monarch Lodge,New York,5
+user_268,Cascade Grand Hotel,Austin,4
+user_268,Vela Suites,Toronto,5
+user_268,Cascade Resort,Seattle,5
+user_268,Meridian Suites,Chicago,4
+user_269,Cascade Lodge,Vancouver,3
+user_269,Lantern Resort,Austin,3
+user_269,Cascade Resort,Seattle,4
+user_269,Azure Suites,Toronto,1
+user_269,Ivy Inn,Chicago,2
+user_269,Meridian Grand Hotel,Toronto,2
+user_270,Aspen Grand Hotel,Toronto,4
+user_270,Meridian Resort,New York,4
+user_270,Lantern Inn,Austin,2
+user_270,Monarch Inn,Toronto,4
+user_270,Harbor Grand Hotel,Austin,4
+user_270,Vela Inn,Austin,5
+user_270,Regent Grand Hotel,Toronto,1
+user_270,Coral Lodge,Chicago,3
+user_270,Harbor Suites,Austin,2
+user_270,Cascade Inn,Seattle,4
+user_270,Cascade Lodge,Vancouver,3
+user_270,Aspen Lodge,Austin,4
+user_270,Lantern Suites,New York,5
+user_270,Lantern Resort,Austin,4
+user_270,Meridian Lodge,Chicago,3
+user_270,Ivy Resort,New York,4
+user_270,Regent Inn,New York,3
+user_270,Summit Suites,New York,5
+user_271,Cascade Resort,Seattle,4
+user_271,Vela Lodge,New York,2
+user_271,Aspen Suites,New York,2
+user_271,Aspen Lodge,Austin,2
+user_271,Azure Resort,Seattle,2
+user_271,Lantern Resort,Austin,3
+user_271,Meridian Inn,New York,3
+user_271,Azure Inn,Vancouver,2
+user_271,Ivy Inn,Chicago,2
+user_271,Coral Lodge,Chicago,3
+user_271,Coral Grand Hotel,New York,1
+user_271,Ivy Lodge,Seattle,1
+user_271,Azure Lodge,Vancouver,2
+user_271,Regent Resort,Toronto,1
+user_271,Monarch Lodge,New York,3
+user_271,Cascade Lodge,Vancouver,2
+user_272,Azure Suites,Toronto,4
+user_272,Coral Lodge,Chicago,4
+user_272,Meridian Grand Hotel,Toronto,3
+user_272,Azure Lodge,Vancouver,5
+user_272,Monarch Grand Hotel,Toronto,4
+user_272,Summit Suites,New York,5
+user_272,Azure Inn,Vancouver,2
+user_272,Vela Lodge,New York,5
+user_272,Ivy Lodge,Seattle,5
+user_272,Meridian Resort,New York,4
+user_272,Regent Resort,Toronto,4
+user_272,Vela Resort,Chicago,5
+user_272,Vela Suites,Toronto,3
+user_272,Regent Inn,New York,3
+user_272,Summit Lodge,Vancouver,5
+user_272,Cascade Inn,Seattle,3
+user_272,Summit Resort,New York,5
+user_272,Vela Grand Hotel,Austin,5
+user_272,Lantern Resort,Austin,5
+user_272,Ivy Inn,Chicago,3
+user_273,Ivy Inn,Chicago,3
+user_273,Lantern Grand Hotel,Vancouver,4
+user_273,Cascade Resort,Seattle,4
+user_273,Coral Suites,Toronto,3
+user_273,Aspen Resort,New York,4
+user_273,Coral Lodge,Chicago,3
+user_273,Aspen Grand Hotel,Toronto,4
+user_273,Summit Grand Hotel,New York,4
+user_274,Azure Inn,Vancouver,3
+user_274,Meridian Resort,New York,4
+user_274,Meridian Suites,Chicago,3
+user_274,Vela Resort,Chicago,4
+user_274,Vela Inn,Austin,3
+user_274,Vela Suites,Toronto,3
+user_275,Azure Inn,Vancouver,2
+user_275,Lantern Suites,New York,1
+user_275,Azure Resort,Seattle,1
+user_275,Azure Lodge,Vancouver,2
+user_275,Lantern Resort,Austin,2
+user_275,Ivy Resort,New York,2
+user_275,Azure Suites,Toronto,1
+user_276,Ivy Resort,New York,3
+user_276,Regent Grand Hotel,Toronto,2
+user_276,Lantern Inn,Austin,3
+user_276,Ivy Inn,Chicago,4
+user_276,Meridian Grand Hotel,Toronto,3
+user_276,Meridian Lodge,Chicago,4
+user_276,Cascade Inn,Seattle,4
+user_276,Aspen Suites,New York,2
+user_276,Aspen Grand Hotel,Toronto,4
+user_276,Summit Suites,New York,4
+user_276,Harbor Grand Hotel,Austin,3
+user_276,Cascade Grand Hotel,Austin,4
+user_276,Vela Inn,Austin,4
+user_276,Azure Lodge,Vancouver,4
+user_276,Lantern Resort,Austin,3
+user_277,Azure Resort,Seattle,4
+user_277,Azure Inn,Vancouver,3
+user_277,Azure Suites,Toronto,3
+user_277,Coral Inn,Chicago,3
+user_277,Ivy Grand Hotel,New York,4
+user_277,Meridian Inn,New York,2
+user_277,Cascade Suites,Toronto,2
+user_277,Regent Inn,New York,2
+user_277,Coral Grand Hotel,New York,2
+user_277,Harbor Lodge,Vancouver,2
+user_277,Coral Suites,Toronto,2
+user_277,Harbor Grand Hotel,Austin,3
+user_277,Lantern Resort,Austin,4
+user_277,Meridian Suites,Chicago,3
+user_278,Azure Suites,Toronto,5
+user_278,Azure Grand Hotel,Seattle,3
+user_278,Azure Inn,Vancouver,5
+user_278,Vela Lodge,New York,5
+user_278,Coral Lodge,Chicago,5
+user_278,Harbor Grand Hotel,Austin,5
+user_278,Vela Suites,Toronto,5
+user_278,Monarch Grand Hotel,Toronto,5
+user_278,Monarch Resort,Vancouver,5
+user_278,Aspen Lodge,Austin,5
+user_278,Summit Grand Hotel,New York,5
+user_278,Summit Lodge,Vancouver,4
+user_279,Aspen Grand Hotel,Toronto,1
+user_279,Meridian Grand Hotel,Toronto,2
+user_279,Vela Grand Hotel,Austin,4
+user_279,Lantern Grand Hotel,Vancouver,2
+user_279,Coral Lodge,Chicago,3
+user_279,Ivy Inn,Chicago,2
+user_279,Ivy Lodge,Seattle,1
+user_279,Vela Resort,Chicago,1
+user_280,Lantern Lodge,Chicago,5
+user_280,Monarch Inn,Toronto,5
+user_280,Monarch Suites,New York,5
+user_280,Aspen Grand Hotel,Toronto,5
+user_280,Vela Grand Hotel,Austin,4
+user_280,Azure Lodge,Vancouver,5
+user_280,Ivy Inn,Chicago,5
+user_280,Harbor Lodge,Vancouver,4
+user_280,Regent Inn,New York,5
+user_280,Vela Resort,Chicago,5
+user_280,Aspen Lodge,Austin,4
+user_280,Azure Resort,Seattle,5
+user_280,Harbor Suites,Austin,4
+user_280,Cascade Lodge,Vancouver,5
+user_280,Aspen Resort,New York,5
+user_280,Coral Grand Hotel,New York,5
+user_281,Lantern Grand Hotel,Vancouver,2
+user_281,Meridian Resort,New York,3
+user_281,Coral Suites,Toronto,2
+user_281,Harbor Lodge,Vancouver,3
+user_281,Azure Lodge,Vancouver,3
+user_281,Monarch Inn,Toronto,2
+user_281,Meridian Suites,Chicago,3
+user_281,Lantern Inn,Austin,5
+user_281,Azure Grand Hotel,Seattle,3
+user_281,Coral Grand Hotel,New York,1
+user_281,Regent Grand Hotel,Toronto,4
+user_282,Ivy Resort,New York,4
+user_282,Regent Grand Hotel,Toronto,5
+user_282,Summit Lodge,Vancouver,5
+user_282,Meridian Lodge,Chicago,4
+user_282,Ivy Inn,Chicago,3
+user_282,Lantern Resort,Austin,5
+user_282,Vela Inn,Austin,3
+user_282,Vela Resort,Chicago,5
+user_282,Regent Lodge,New York,4
+user_282,Regent Inn,New York,4
+user_283,Coral Suites,Toronto,4
+user_283,Harbor Inn,Seattle,5
+user_283,Regent Lodge,New York,2
+user_283,Azure Suites,Toronto,2
+user_283,Ivy Lodge,Seattle,1
+user_283,Azure Resort,Seattle,3
+user_283,Monarch Resort,Vancouver,2
+user_283,Cascade Suites,Toronto,4
+user_283,Coral Grand Hotel,New York,2
+user_283,Meridian Resort,New York,3
+user_283,Azure Lodge,Vancouver,2
+user_283,Summit Suites,New York,2
+user_283,Lantern Inn,Austin,4
+user_283,Lantern Resort,Austin,2
+user_283,Aspen Lodge,Austin,1
+user_283,Ivy Inn,Chicago,5
+user_284,Cascade Resort,Seattle,5
+user_284,Azure Inn,Vancouver,3
+user_284,Coral Suites,Toronto,2
+user_284,Lantern Grand Hotel,Vancouver,5
+user_284,Summit Suites,New York,4
+user_284,Monarch Suites,New York,4
+user_284,Monarch Inn,Toronto,1
+user_284,Cascade Lodge,Vancouver,3
+user_284,Coral Grand Hotel,New York,4
+user_284,Cascade Suites,Toronto,4
+user_284,Ivy Inn,Chicago,3
+user_284,Cascade Grand Hotel,Austin,2
+user_284,Lantern Inn,Austin,4
+user_284,Meridian Grand Hotel,Toronto,2
+user_284,Aspen Grand Hotel,Toronto,3
+user_284,Azure Lodge,Vancouver,4
+user_285,Lantern Resort,Austin,3
+user_285,Ivy Inn,Chicago,3
+user_285,Coral Grand Hotel,New York,2
+user_285,Regent Resort,Toronto,2
+user_285,Summit Lodge,Vancouver,4
+user_285,Cascade Resort,Seattle,2
+user_285,Azure Grand Hotel,Seattle,2
+user_285,Aspen Grand Hotel,Toronto,4
+user_285,Azure Lodge,Vancouver,3
+user_285,Lantern Lodge,Chicago,3
+user_285,Meridian Resort,New York,3
+user_285,Monarch Grand Hotel,Toronto,2
+user_285,Regent Grand Hotel,Toronto,2
+user_285,Azure Suites,Toronto,3
+user_286,Regent Grand Hotel,Toronto,5
+user_286,Monarch Resort,Vancouver,3
+user_286,Lantern Inn,Austin,4
+user_286,Coral Resort,Toronto,4
+user_286,Meridian Resort,New York,3
+user_286,Cascade Resort,Seattle,5
+user_286,Summit Lodge,Vancouver,4
+user_286,Lantern Resort,Austin,4
+user_286,Summit Inn,Toronto,4
+user_286,Azure Suites,Toronto,3
+user_286,Vela Resort,Chicago,3
+user_287,Regent Suites,Vancouver,4
+user_287,Vela Grand Hotel,Austin,4
+user_287,Summit Suites,New York,5
+user_287,Vela Suites,Toronto,4
+user_287,Coral Lodge,Chicago,3
+user_287,Meridian Lodge,Chicago,2
+user_287,Lantern Resort,Austin,5
+user_287,Lantern Grand Hotel,Vancouver,4
+user_287,Monarch Lodge,New York,5
+user_287,Azure Inn,Vancouver,3
+user_287,Coral Inn,Chicago,4
+user_287,Aspen Grand Hotel,Toronto,3
+user_287,Coral Grand Hotel,New York,5
+user_287,Vela Lodge,New York,3
+user_288,Meridian Resort,New York,5
+user_288,Harbor Lodge,Vancouver,5
+user_288,Monarch Resort,Vancouver,5
+user_288,Azure Resort,Seattle,4
+user_288,Meridian Suites,Chicago,4
+user_288,Coral Grand Hotel,New York,5
+user_288,Ivy Suites,Vancouver,5
+user_288,Monarch Lodge,New York,5
+user_288,Vela Inn,Austin,5
+user_288,Ivy Resort,New York,5
+user_288,Monarch Grand Hotel,Toronto,5
+user_288,Cascade Resort,Seattle,4
+user_288,Summit Suites,New York,4
+user_288,Vela Suites,Toronto,5
+user_288,Summit Inn,Toronto,4
+user_289,Azure Lodge,Vancouver,2
+user_289,Summit Grand Hotel,New York,2
+user_289,Coral Grand Hotel,New York,1
+user_289,Ivy Lodge,Seattle,2
+user_289,Summit Inn,Toronto,2
+user_289,Harbor Suites,Austin,2
+user_289,Azure Suites,Toronto,2
+user_289,Meridian Inn,New York,2
+user_289,Meridian Suites,Chicago,3
+user_289,Vela Lodge,New York,2
+user_289,Meridian Lodge,Chicago,3
+user_290,Harbor Inn,Seattle,4
+user_290,Azure Resort,Seattle,4
+user_290,Lantern Grand Hotel,Vancouver,4
+user_290,Meridian Suites,Chicago,3
+user_290,Lantern Inn,Austin,4
+user_290,Cascade Lodge,Vancouver,3
+user_290,Vela Inn,Austin,3
+user_290,Summit Suites,New York,4
+user_290,Azure Lodge,Vancouver,4
+user_290,Monarch Resort,Vancouver,3
+user_290,Vela Suites,Toronto,4
+user_290,Meridian Inn,New York,3
+user_290,Summit Lodge,Vancouver,3
+user_291,Coral Suites,Toronto,4
+user_291,Summit Resort,New York,5
+user_291,Regent Suites,Vancouver,4
+user_291,Harbor Lodge,Vancouver,3
+user_291,Cascade Suites,Toronto,4
+user_291,Cascade Resort,Seattle,5
+user_291,Lantern Grand Hotel,Vancouver,5
+user_291,Azure Resort,Seattle,5
+user_291,Harbor Grand Hotel,Austin,5
+user_292,Cascade Resort,Seattle,5
+user_292,Cascade Inn,Seattle,5
+user_292,Regent Grand Hotel,Toronto,5
+user_292,Regent Inn,New York,4
+user_292,Regent Resort,Toronto,5
+user_292,Aspen Inn,New York,4
+user_293,Regent Grand Hotel,Toronto,1
+user_293,Monarch Lodge,New York,4
+user_293,Summit Suites,New York,5
+user_293,Lantern Lodge,Chicago,5
+user_293,Coral Suites,Toronto,5
+user_293,Coral Lodge,Chicago,5
+user_293,Cascade Resort,Seattle,3
+user_293,Meridian Suites,Chicago,4
+user_293,Meridian Inn,New York,4
+user_293,Coral Resort,Toronto,4
+user_293,Monarch Grand Hotel,Toronto,5
+user_294,Cascade Resort,Seattle,4
+user_294,Meridian Suites,Chicago,5
+user_294,Cascade Lodge,Vancouver,5
+user_294,Monarch Suites,New York,4
+user_294,Azure Resort,Seattle,3
+user_294,Meridian Resort,New York,4
+user_294,Azure Suites,Toronto,4
+user_294,Harbor Lodge,Vancouver,5
+user_294,Azure Lodge,Vancouver,4
+user_295,Harbor Inn,Seattle,4
+user_295,Regent Lodge,New York,3
+user_295,Cascade Inn,Seattle,3
+user_295,Cascade Suites,Toronto,3
+user_295,Cascade Resort,Seattle,2
+user_295,Cascade Lodge,Vancouver,3
+user_295,Ivy Lodge,Seattle,1
+user_295,Lantern Suites,New York,2
+user_295,Summit Resort,New York,2
+user_295,Monarch Lodge,New York,3
+user_295,Coral Grand Hotel,New York,1
+user_296,Ivy Lodge,Seattle,2
+user_296,Monarch Lodge,New York,4
+user_296,Cascade Inn,Seattle,3
+user_296,Aspen Grand Hotel,Toronto,3
+user_296,Aspen Resort,New York,2
+user_296,Harbor Suites,Austin,4
+user_296,Monarch Suites,New York,3
+user_296,Coral Grand Hotel,New York,3
+user_296,Coral Suites,Toronto,3
+user_296,Cascade Suites,Toronto,3
+user_297,Coral Resort,Toronto,5
+user_297,Summit Lodge,Vancouver,5
+user_297,Coral Suites,Toronto,5
+user_297,Harbor Inn,Seattle,5
+user_297,Azure Lodge,Vancouver,5
+user_297,Cascade Inn,Seattle,5
+user_297,Coral Lodge,Chicago,5
+user_298,Harbor Lodge,Vancouver,3
+user_298,Coral Suites,Toronto,3
+user_298,Ivy Inn,Chicago,4
+user_298,Vela Grand Hotel,Austin,4
+user_298,Aspen Grand Hotel,Toronto,3
+user_298,Lantern Resort,Austin,3
+user_298,Monarch Grand Hotel,Toronto,5
+user_298,Harbor Suites,Austin,5
+user_298,Vela Lodge,New York,4
+user_298,Lantern Grand Hotel,Vancouver,3
+user_298,Regent Grand Hotel,Toronto,4
+user_298,Regent Suites,Vancouver,2
+user_299,Vela Lodge,New York,5
+user_299,Vela Inn,Austin,4
+user_299,Meridian Suites,Chicago,5
+user_299,Azure Lodge,Vancouver,4
+user_299,Harbor Lodge,Vancouver,4
+user_299,Summit Lodge,Vancouver,1
+user_299,Meridian Resort,New York,5
+user_299,Lantern Grand Hotel,Vancouver,4
+user_299,Cascade Resort,Seattle,5
+user_299,Coral Suites,Toronto,5
+user_299,Harbor Inn,Seattle,5
+user_299,Meridian Grand Hotel,Toronto,4
